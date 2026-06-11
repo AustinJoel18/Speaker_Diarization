@@ -29,7 +29,7 @@ echo "============================================================"
 echo ""
 
 # --- Configuration ---
-ENV_NAME="nemo"
+ENV_NAME="nemo2"
 PYTHON_VERSION="3.10"
 
 # --- Step 1: Create environment ---
@@ -86,7 +86,9 @@ fi
 # --- Step 4: Install NeMo ---
 echo ""
 echo "📦 Step 4: Installing NVIDIA NeMo toolkit..."
-pip install nemo_toolkit[asr]
+python -m pip install Cython
+python -m pip install --no-build-isolation youtokentome==1.0.6
+python -m pip install --no-build-isolation nemo_toolkit[asr]==1.21.0
 
 # --- Step 5: Install dependencies ---
 echo ""

@@ -31,7 +31,7 @@ echo ============================================================
 echo   Processing data\%audio_file%...
 echo   (This might take a few minutes depending on the file length)
 echo ============================================================
-python scripts\run_nemo_cascaded_diarization.py --audio data\%audio_file%
+python scripts\run_cascaded.py --audio data\%audio_file%
 
 echo.
 echo ============================================================

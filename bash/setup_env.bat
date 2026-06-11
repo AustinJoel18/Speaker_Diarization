@@ -1,11 +1,9 @@
-REM Prevents every command from being printed to the console.
 @echo off
-
 REM =============================================================================
 REM setup_env.bat -- Complete NeMo Environment Setup for Windows
 REM =============================================================================
 
-REM Force the script to run from the root project folder (Nemo-CascadedDiarization)
+REM Force the script to run from the root project folder
 cd /d "%~dp0.."
 
 echo ============================================================
@@ -13,8 +11,7 @@ echo   NeMo Speaker Diarization -- Windows Environment Setup
 echo ============================================================
 echo.
 
-REM Declare the following variables for easy configuration
-set ENV_NAME=nemo
+set ENV_NAME=nemo2
 set PYTHON_VERSION=3.10
 
 REM --- Step 1: Install Miniconda ---
@@ -39,8 +36,6 @@ if not exist ".\miniconda\Scripts\activate.bat" (
 REM --- Step 2: Create Environment ---
 echo.
 echo [Step 2] Creating and activating Conda environment...
-
-REM Activate the base Conda environment to ensure conda commands work
 call .\miniconda\Scripts\activate.bat
 
 REM Automatically accept Anaconda's new Terms of Service to prevent freezing
@@ -48,7 +43,6 @@ call conda tos accept --override-channels --channel https://repo.anaconda.com/pk
 call conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/r >nul 2>nul
 call conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/msys2 >nul 2>nul
 
-REM Create the Conda environment with the specified Python version
 call conda create -n %ENV_NAME% python=%PYTHON_VERSION% -y
 if %ERRORLEVEL% neq 0 (
     echo.
@@ -56,8 +50,6 @@ if %ERRORLEVEL% neq 0 (
     pause
     exit /b 1
 )
-
-REM Activate the newly created environment
 call conda activate %ENV_NAME%
 
 REM --- Step 3: Install PyTorch ---

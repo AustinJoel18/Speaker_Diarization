@@ -274,7 +274,7 @@ def run_cascaded_pipeline(
                     "use_speaker_model_from_ckpt": False,
 
                     "diar_window_length": 50,
-                    "sigmoid_threshold": [0.4],
+                    "sigmoid_threshold": [0.3],
                     "overlap_infer_spk_limit": 5,
 
                     "infer_batch_size": 25,
@@ -319,6 +319,11 @@ def run_cascaded_pipeline(
     start_time = time.time()
     print(OmegaConf.to_yaml(config))
     print(config.keys())
+
+    print("Embedding model:", config.diarizer.speaker_embeddings.model_path)
+    print("MSDD model:", config.diarizer.msdd_model.model_path)
+    print("Use speaker model from ckpt:",
+        config.diarizer.msdd_model.parameters.use_speaker_model_from_ckpt)
 
     # Create the NeuralDiarizer object with the provided configuration. 
     diarizer = NeuralDiarizer(cfg=config)
