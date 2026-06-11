@@ -1,0 +1,18 @@
+# =============================================================================
+# NeMo Speaker Diarization — Python Dependencies
+# =============================================================================
+
+# --- Core: NVIDIA NeMo Toolkit (ASR collection includes speaker diarization) ---
+nemo_toolkit[asr]==1.21.0
+
+# --- HuggingFace Bug Fix ---
+# NeMo 1.21.0 is incompatible with newer versions of huggingface-hub
+huggingface_hub<0.23
+
+# --- Audio Processing ---
+pydub                  # Audio loading, format conversion
+soundfile              # WAV file I/O (used by NeMo internally)
+
+# --- Data ---
+pandas                 # CSV export
+numpy                  # Numerical operations
