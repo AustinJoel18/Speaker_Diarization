@@ -261,11 +261,6 @@ def run_cascaded_pipeline(
                 },
             },
 
-            # ── Input/Output paths ─────────────────────────────────────
-            "manifest_filepath": manifest_path,
-            "out_dir": output_dir,
-            "batch_size": 1,  # Process one audio file at a time (since manifest has one entry)
-
             # ── OPTIONAL: MSDD refinement ──────────────────────────────
             # SWAP POINT: Set model_path to use MSDD post-processing
             "msdd_model": {
@@ -283,6 +278,11 @@ def run_cascaded_pipeline(
                     "split_infer": False,
                 },
             },
+
+             # ── Input/Output paths ─────────────────────────────────────
+            "manifest_filepath": manifest_path,
+            "out_dir": output_dir,
+            "batch_size": 1,  # Process one audio file at a time (since manifest has one entry)
 
             # ── Oracle settings ────────────────────────────────────────
             "oracle_vad": False,
