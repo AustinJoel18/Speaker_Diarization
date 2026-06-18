@@ -4,270 +4,319 @@ from pathlib import Path
 
 #TODO
 # AUDIO_DIR = Path("/home/interactionlab/Downloads/Nemo-Cascaded-Diarization/data")
-AUDIO_DIR1 = Path("/media/interactionlab/One Touch/ASD_Dataset/all-audios-denoised")
-AUDIO_DIR2 = Path("/media/interactionlab/One Touch/ASD_Dataset/all-audios")
+AUDIO_DIR_DENOISED = Path("/media/interactionlab/One Touch/ASD_Dataset/all-audios-denoised")
+AUDIO_DIR_RAW = Path("/media/interactionlab/One Touch/ASD_Dataset/all-audios")
 
 #TODO
-AUDIO_SPEAKERS_1 = {
+AUDIO_SPEAKERS_DENOISED = {
     "p5-s8_denoised.wav": 4,
-    "p5-s10_denoised.wav": 4,
-    "p7-s8_denoised.wav": 5,
+    # "p5-s10_denoised.wav": 4,
+    # "p7-s8_denoised.wav": 5,
+    "p7-s16_denoised.wav": 4,
     "p9-s3-1_denoised.wav": 6,
-    "p9-s9_denoised.wav": 4,
-    "p11-s4_denoised.wav": 4,
-    "p11-s11_denoised.wav": 3,
-    "p12-s3_denoised.wav": 4,
-    "p12-s6_denoised.wav": 3,
-    "p17-s2_denoised.wav": 5,
-    "p17-s6_denoised.wav": 4,
-    "p18-s15_denoised.wav": 3,
+    # "p9-s9_denoised.wav": 4,
+    # "p11-s4_denoised.wav": 4,
+    # "p11-s11_denoised.wav": 3,
+    # "p12-s3_denoised.wav": 4,
+    # "p12-s6_denoised.wav": 3,
+    # "p17-s2_denoised.wav": 5,
+    # "p17-s6_denoised.wav": 4,
+    # "p18-s15_denoised.wav": 3,
     "p18-s17_denoised.wav": 3,
 }
 
-# AUDIO_SPEAKERS_2= {
-#     "p5-s10.wav": 4,
-#     "p7-s8.wav": 5,
-#     "p9-s3-1.wav": 6,
-#     "p9-s9.wav": 4,
-#     "p11-s4.wav": 4,
-#     "p11-s11.wav": 3,
-#     "p12-s3.wav": 4,
-#     "p12-s6.wav": 3,
-#     "p17-s2.wav": 5,
-#     "p17-s6.wav": 4,
-#     "p18-s15.wav": 3,
-#     "p18-s17.wav": 3,
-# }
+AUDIO_SPEAKERS_RAW = {
+    "p5-s8.wav": 4,
+    # "p5-s10.wav": 4,
+    # "p7-s8.wav": 5,
+    "p7-s16.wav": 4,
+    "p9-s3-1.wav": 6,
+    # "p9-s9.wav": 4,
+    # "p11-s4.wav": 4,
+    # "p11-s11.wav": 3,
+    # "p12-s3.wav": 4,
+    # "p12-s6.wav": 3,
+    # "p17-s2.wav": 5,
+    # "p17-s6.wav": 4,
+    # "p18-s15.wav": 3,
+    "p18-s17.wav": 3,
+}
 
-#!TODO
 VAD_MODELS = [
-    #"vad_marblenet",
+    "vad_marblenet",
     "vad_multilingual_marblenet",
-    # "vad_telephony_marblenet",
+    "vad_telephony_marblenet",
 ]
 
 EMBED_MODELS = [
     "titanet_large",
-    # "ecapa_tdnn",
+    "ecapa_tdnn",
 ]
 
-# MSDD_MODELS = [
-#     "diar_msdd_telephonic",
-# ]
+MSDD_MODELS = [
+    "diar_msdd_telephonic",
+]
 
-# For denoised audio and fixed number of speakers
-for audio_name, num_speakers in AUDIO_SPEAKERS_1.items():
+# Function definition for ClusteringDiarizer
+def run_clustering_batch_script(
+    audio_dir,
+    speaker_dict,
+    audio_type,
+    use_fixed_speakers,
+):
+    """
+    audio_type:
+        "raw_audios"
+        "denoised_audios"
 
-    audio_file = AUDIO_DIR1 / audio_name
+    use_fixed_speakers:
+        True  -> use --num-speakers
+        False -> auto detect
+    """
+    # Specify the num_speakers mode
+    mode = (
+        "fixed_num-speakers" if use_fixed_speakers
+        else "auto_num-speakers"
+    )
 
-    if not audio_file.exists():
-        print(f"Audio file not found: {audio_file}")
-        continue
+    for audio_name, num_speakers in speaker_dict.items():
 
-    print("\n"+"="*80)
-    print(f"Processing: {audio_file} ({num_speakers} speakers)")
+        audio_file = audio_dir / audio_name
 
-    # for vad, emb, msdd in itertools.product(
-    for vad, emb in itertools.product(
-        VAD_MODELS,
-        EMBED_MODELS,
-        # MSDD_MODELS
-    ):
+        if not audio_file.exists():
+            print(f"Audio file not found: {audio_file}")
+            continue
 
-        output_dir = (
-            f"Testing_folder/outputs/ClusteringDiarizer_Test15/denoised_audios/fixed_num-speakers/"
-            f"{vad}/"
-            f"{emb}"
-        )
+        print("\n" + "=" * 80)
+        print(f"Processing: {audio_file}")
 
-        cmd = [
-            "python",
-            "scripts/run_nemo_cascaded_diarization.py",
-            "--audio",
-            str(audio_file),
-            "--vad-model",
-            vad,
-            "--embedding-model",
-            emb,
-            "--num-speakers",
-            str(num_speakers),
-            "--output-dir",
-            output_dir,
-            "--device",
-            "cuda",
-        ]
+        for vad, emb in itertools.product(
+            VAD_MODELS,
+            EMBED_MODELS,
+        ):
 
-        # if msdd:
-        #     cmd.extend([
-        #         "--msdd-model",
-        #         msdd
-        #     ])
+            output_dir = (
+                f"outputs/ClusteringDiarizer/"
+                f"{audio_type}/"
+                f"{mode}/"
+                f"{vad}/"
+                f"{emb}"
+            )
+            
+            # Create the output directory if it doesn't exist; Not necessary, but good just practice haha
+            Path(output_dir).mkdir(
+                parents=True,
+                exist_ok=True,
+            )
 
-        print("Running:", " ".join(cmd))
+            cmd = [
+                "python",
+                "scripts/run_nemo_cascaded_diarization.py",
+                "--audio",
+                str(audio_file),
+                "--vad-model",
+                vad,
+                "--embedding-model",
+                emb,
+                "--output-dir",
+                output_dir,
+                "--device",
+                "cuda",
+            ]
 
-        try:
-            subprocess.run(cmd, check=True)
-        except Exception as e:
-            print(f"FAILED: {audio_file}")
-            print(e)
+            if use_fixed_speakers:
+                cmd.extend([
+                    "--num-speakers",
+                    str(num_speakers),
+                ])
 
-# # For denoised audio and auto number of speakers
-# for audio_name, num_speakers in AUDIO_SPEAKERS_1.items():
+            print("Running:", " ".join(cmd))
 
-#     audio_file = AUDIO_DIR1 / audio_name
+            try:
+                subprocess.run(
+                    cmd,
+                    check=True,
+                )
 
-#     if not audio_file.exists():
-#         print(f"Audio file not found: {audio_file}")
-#         continue
+            except Exception as e:
+                print(f"FAILED: {audio_file}")
+                print(e)
 
-#     print("\n"+"="*80)
-#     print(f"Processing: {audio_file} ({num_speakers} speakers)")
+# Function definition for NeuralDiarizer
+def run_neural_batch_script(
+    audio_dir,
+    speaker_dict,
+    audio_type,
+    use_fixed_speakers,
+):
+    """
+    audio_type:
+        "raw_audios"
+        "denoised_audios"
 
-#     for vad, emb, msdd in itertools.product(
-#         VAD_MODELS,
-#         EMBED_MODELS,
-#         MSDD_MODELS
-#     ):
+    use_fixed_speakers:
+        True  -> use --num-speakers
+        False -> auto detect
+    """
+    # Specify the num_speakers mode
+    mode = (
+        "fixed_num-speakers" if use_fixed_speakers
+        else "auto_num-speakers"
+    )
 
-#         output_dir = (
-#             f"outputs/NeuralDiarizer/denoised_audios/auto_num-speakers/"
-#             f"{vad}/"
-#             f"{emb}"
-#         )
+    for audio_name, num_speakers in speaker_dict.items():
 
-#         cmd = [
-#             "python",
-#             "scripts/run_nemo_msdd_diarization.py",
-#             "--audio",
-#             str(audio_file),
-#             "--vad-model",
-#             vad,
-#             "--embedding-model",
-#             emb,
-#             "--output-dir",
-#             output_dir,
-#             "--device",
-#             "cuda",
-#         ]
+        audio_file = audio_dir / audio_name
 
-#         if msdd:
-#             cmd.extend([
-#                 "--msdd-model",
-#                 msdd
-#             ])
+        if not audio_file.exists():
+            print(f"Audio file not found: {audio_file}")
+            continue
 
-#         print("Running:", " ".join(cmd))
+        print("\n" + "=" * 80)
+        print(f"Processing: {audio_file}")
 
-#         try:
-#             subprocess.run(cmd, check=True)
-#         except Exception as e:
-#             print(f"FAILED: {audio_file}")
-#             print(e)
+        for vad, emb, msdd in itertools.product(
+            VAD_MODELS,
+            EMBED_MODELS,
+            MSDD_MODELS,
+        ):
 
-# # For raw audio and fixed number of speakers
-# for audio_name, num_speakers in AUDIO_SPEAKERS_2.items():
+            output_dir = (
+                f"outputs/NeuralDiarizer/"
+                f"{audio_type}/"
+                f"{mode}/"
+                f"{vad}/"
+                f"{emb}"
+            )
+            
+            # Create the output directory if it doesn't exist; Not necessary, but good just practice haha
+            Path(output_dir).mkdir(
+                parents=True,
+                exist_ok=True,
+            )
 
-#     audio_file = AUDIO_DIR2 / audio_name
+            cmd = [
+                "python",
+                "scripts/run_nemo_msdd_diarization.py",
+                "--audio",
+                str(audio_file),
+                "--vad-model",
+                vad,
+                "--embedding-model",
+                emb,
+                "--msdd-model",
+                msdd,
+                "--output-dir",
+                output_dir,
+                "--device",
+                "cuda",
+            ]
 
-#     if not audio_file.exists():
-#         print(f"Audio file not found: {audio_file}")
-#         continue
+            if use_fixed_speakers:
+                cmd.extend([
+                    "--num-speakers",
+                    str(num_speakers),
+                ])
 
-#     print("\n"+"="*80)
-#     print(f"Processing: {audio_file} ({num_speakers} speakers)")
+            print("Running:", " ".join(cmd))
 
-#     for vad, emb, msdd in itertools.product(
-#         VAD_MODELS,
-#         EMBED_MODELS,
-#         MSDD_MODELS
-#     ):
+            try:
+                subprocess.run(
+                    cmd,
+                    check=True,
+                )
 
-#         output_dir = (
-#             f"outputs/NeuralDiarizer/raw_audios/fixed_num-speakers/" #TODO
-#             f"{vad}/"
-#             f"{emb}/"
-#         )
+            except Exception as e:
+                print(f"FAILED: {audio_file}")
+                print(e)
 
-#         cmd = [
-#             "python",
-#             "scripts/run_nemo_msdd_diarization.py", #TODO
-#             "--audio",
-#             str(audio_file),
-#             "--vad-model",
-#             vad,
-#             "--embedding-model",
-#             emb,
-#             "--num-speakers",
-#             str(num_speakers),
-#             "--output-dir",
-#             output_dir,
-#             "--device",
-#             "cuda",
-#         ]
+''' CLUSTERING DIARIZER EXPERIMENTS '''
 
-#         if msdd:
-#             cmd.extend([
-#                 "--msdd-model",
-#                 msdd
-#             ])
+# ==========================================================
+# 1. DENOISED_AUDIO + FIXED_NUM-SPEAKERS
+# ==========================================================
 
-#         print("Running:", " ".join(cmd))
+run_clustering_batch_script(
+    audio_dir=AUDIO_DIR_DENOISED,
+    speaker_dict=AUDIO_SPEAKERS_DENOISED,
+    audio_type="denoised_audios",
+    use_fixed_speakers=True,
+)
 
-#         try:
-#             subprocess.run(cmd, check=True)
-#         except Exception as e:
-#             print(f"FAILED: {audio_file}")
-#             print(e)  
+# ==========================================================
+# 2. DENOISED_AUDIO + AUTO_NUM-SPEAKERS
+# ==========================================================
 
-# For raw audio and auto number of speakers
-# for audio_name, num_speakers in AUDIO_SPEAKERS_2.items():
+run_clustering_batch_script(
+    audio_dir=AUDIO_DIR_DENOISED,
+    speaker_dict=AUDIO_SPEAKERS_DENOISED,
+    audio_type="denoised_audios",
+    use_fixed_speakers=False,
+)
 
-#     audio_file = AUDIO_DIR2 / audio_name
+# ==========================================================
+# 3. RAW_AUDIOS + FIXED_NUM-SPEAKERS
+# ==========================================================
 
-#     if not audio_file.exists():
-#         print(f"Audio file not found: {audio_file}")
-#         continue
+run_clustering_batch_script(
+    audio_dir=AUDIO_DIR_RAW,
+    speaker_dict=AUDIO_SPEAKERS_RAW,
+    audio_type="raw_audios",
+    use_fixed_speakers=True,
+)
 
-#     print("\n"+"="*80)
-#     print(f"Processing: {audio_file} ({num_speakers} speakers)")
+# ==========================================================
+# 4. RAW_AUDIOS + AUTO_NUM-SPEAKERS
+# ==========================================================
 
-#     for vad, emb, msdd in itertools.product(
-#         VAD_MODELS,
-#         EMBED_MODELS,
-#         MSDD_MODELS
-#     ):
+run_clustering_batch_script(
+    audio_dir=AUDIO_DIR_RAW,
+    speaker_dict=AUDIO_SPEAKERS_RAW,
+    audio_type="raw_audios",
+    use_fixed_speakers=False,
+)
 
-#         output_dir = (
-#             f"outputs/NeuralDiarizer/raw_audios/auto_num-speakers/" #TODO
-#             f"{vad}/"
-#             f"{emb}/"
-#         )
+''' NEURAL DIARIZER EXPERIMENTS '''
+# ==========================================================
+# 1. DENOISED_AUDIO + FIXED_NUM-SPEAKERS
+# ==========================================================
 
-#         cmd = [
-#             "python",
-#             "scripts/run_nemo_msdd_diarization.py", #TODO
-#             "--audio",
-#             str(audio_file),
-#             "--vad-model",
-#             vad,
-#             "--embedding-model",
-#             emb,
-#             "--output-dir",
-#             output_dir,
-#             "--device",
-#             "cuda",
-#         ]
+run_neural_batch_script(
+    audio_dir=AUDIO_DIR_DENOISED,
+    speaker_dict=AUDIO_SPEAKERS_DENOISED,
+    audio_type="denoised_audios",
+    use_fixed_speakers=True,
+)
 
-#         if msdd:
-#             cmd.extend([
-#                 "--msdd-model",
-#                 msdd
-#             ])
+# ==========================================================
+# 2. DENOISED_AUDIO + AUTO_NUM-SPEAKERS
+# ==========================================================
 
-#         print("Running:", " ".join(cmd))
+run_neural_batch_script(
+    audio_dir=AUDIO_DIR_DENOISED,
+    speaker_dict=AUDIO_SPEAKERS_DENOISED,
+    audio_type="denoised_audios",
+    use_fixed_speakers=False,
+)
 
-#         try:
-#             subprocess.run(cmd, check=True)
-#         except Exception as e:
-#             print(f"FAILED: {audio_file}")
-#             print(e)
+# ==========================================================
+# 3. RAW_AUDIOS + FIXED_NUM-SPEAKERS
+# ==========================================================
+
+run_neural_batch_script(
+    audio_dir=AUDIO_DIR_RAW,
+    speaker_dict=AUDIO_SPEAKERS_RAW,
+    audio_type="raw_audios",
+    use_fixed_speakers=True,
+)
+
+# ==========================================================
+# 4. RAW_AUDIOS + AUTO_NUM-SPEAKERS
+# ==========================================================
+
+run_neural_batch_script(
+    audio_dir=AUDIO_DIR_RAW,
+    speaker_dict=AUDIO_SPEAKERS_RAW,
+    audio_type="raw_audios",
+    use_fixed_speakers=False,
+)

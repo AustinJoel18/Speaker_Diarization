@@ -193,7 +193,6 @@ def run_cascaded_pipeline(
 
     # NeMo diarization imports
     # ClusteringDiarizer is the main cobject that runs the entire cascaded pipeline based on the provided config.
-    from nemo.collections.asr.models import ClusteringDiarizer
     from nemo.collections.asr.models import NeuralDiarizer
 
     # Create output directory if it doesn't exist

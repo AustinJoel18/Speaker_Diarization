@@ -1,733 +1,733 @@
-SPEAKER 1.500 1.090 <NA> <NA> <NA> speaker_1
-SPEAKER 4.220 0.875 <NA> <NA> <NA> speaker_0
-SPEAKER 5.095 0.775 <NA> <NA> <NA> speaker_1
-SPEAKER 6.380 3.970 <NA> <NA> <NA> speaker_1
-SPEAKER 10.940 0.290 <NA> <NA> <NA> speaker_1
-SPEAKER 11.900 3.250 <NA> <NA> <NA> speaker_1
-SPEAKER 15.580 0.850 <NA> <NA> <NA> speaker_1
-SPEAKER 16.780 1.375 <NA> <NA> <NA> speaker_0
-SPEAKER 18.155 6.000 <NA> <NA> <NA> speaker_1
-SPEAKER 24.155 0.500 <NA> <NA> <NA> speaker_0
-SPEAKER 24.655 2.575 <NA> <NA> <NA> speaker_1
-SPEAKER 28.300 0.875 <NA> <NA> <NA> speaker_1
-SPEAKER 29.175 1.335 <NA> <NA> <NA> speaker_0
-SPEAKER 31.660 1.010 <NA> <NA> <NA> speaker_1
-SPEAKER 35.740 0.375 <NA> <NA> <NA> speaker_1
-SPEAKER 36.115 0.155 <NA> <NA> <NA> speaker_2
-SPEAKER 40.140 1.650 <NA> <NA> <NA> speaker_1
-SPEAKER 42.140 3.375 <NA> <NA> <NA> speaker_1
-SPEAKER 45.515 0.355 <NA> <NA> <NA> speaker_2
-SPEAKER 46.620 1.375 <NA> <NA> <NA> speaker_1
-SPEAKER 47.995 1.000 <NA> <NA> <NA> speaker_0
-SPEAKER 48.995 0.315 <NA> <NA> <NA> speaker_1
-SPEAKER 49.740 2.770 <NA> <NA> <NA> speaker_1
-SPEAKER 53.100 5.250 <NA> <NA> <NA> speaker_1
-SPEAKER 58.940 1.970 <NA> <NA> <NA> speaker_1
-SPEAKER 61.660 0.370 <NA> <NA> <NA> speaker_1
-SPEAKER 63.740 0.770 <NA> <NA> <NA> speaker_1
-SPEAKER 65.020 0.530 <NA> <NA> <NA> speaker_1
-SPEAKER 66.140 1.810 <NA> <NA> <NA> speaker_2
-SPEAKER 69.340 2.375 <NA> <NA> <NA> speaker_1
-SPEAKER 71.715 1.835 <NA> <NA> <NA> speaker_0
-SPEAKER 73.980 2.125 <NA> <NA> <NA> speaker_1
-SPEAKER 76.105 3.445 <NA> <NA> <NA> speaker_0
-SPEAKER 80.540 3.650 <NA> <NA> <NA> speaker_1
-SPEAKER 84.620 4.850 <NA> <NA> <NA> speaker_1
-SPEAKER 89.820 5.330 <NA> <NA> <NA> speaker_0
-SPEAKER 95.820 0.930 <NA> <NA> <NA> speaker_1
-SPEAKER 97.180 0.290 <NA> <NA> <NA> speaker_1
-SPEAKER 98.620 3.250 <NA> <NA> <NA> speaker_0
-SPEAKER 105.260 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 107.820 0.610 <NA> <NA> <NA> speaker_1
-SPEAKER 112.700 0.530 <NA> <NA> <NA> speaker_2
-SPEAKER 115.420 0.450 <NA> <NA> <NA> speaker_1
-SPEAKER 116.780 0.370 <NA> <NA> <NA> speaker_1
-SPEAKER 117.740 1.625 <NA> <NA> <NA> speaker_0
-SPEAKER 119.365 0.425 <NA> <NA> <NA> speaker_1
-SPEAKER 120.380 0.530 <NA> <NA> <NA> speaker_2
-SPEAKER 122.540 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 123.260 1.090 <NA> <NA> <NA> speaker_1
-SPEAKER 125.180 2.370 <NA> <NA> <NA> speaker_0
-SPEAKER 129.100 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 130.460 0.375 <NA> <NA> <NA> speaker_0
-SPEAKER 130.835 0.155 <NA> <NA> <NA> speaker_1
-SPEAKER 131.500 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 133.180 0.850 <NA> <NA> <NA> speaker_2
-SPEAKER 135.980 0.610 <NA> <NA> <NA> speaker_2
-SPEAKER 137.740 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 139.020 1.890 <NA> <NA> <NA> speaker_2
-SPEAKER 141.420 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 142.140 0.530 <NA> <NA> <NA> speaker_2
-SPEAKER 144.220 1.810 <NA> <NA> <NA> speaker_1
-SPEAKER 146.380 1.730 <NA> <NA> <NA> speaker_1
-SPEAKER 148.620 0.770 <NA> <NA> <NA> speaker_1
-SPEAKER 149.900 0.530 <NA> <NA> <NA> speaker_1
-SPEAKER 150.940 0.875 <NA> <NA> <NA> speaker_0
-SPEAKER 151.815 0.750 <NA> <NA> <NA> speaker_1
-SPEAKER 152.565 0.750 <NA> <NA> <NA> speaker_0
-SPEAKER 153.315 1.275 <NA> <NA> <NA> speaker_1
-SPEAKER 155.340 4.450 <NA> <NA> <NA> speaker_1
-SPEAKER 160.300 0.875 <NA> <NA> <NA> speaker_0
-SPEAKER 161.175 0.775 <NA> <NA> <NA> speaker_1
-SPEAKER 162.380 1.625 <NA> <NA> <NA> speaker_0
-SPEAKER 164.005 0.345 <NA> <NA> <NA> speaker_1
-SPEAKER 165.580 1.090 <NA> <NA> <NA> speaker_0
-SPEAKER 167.020 1.625 <NA> <NA> <NA> speaker_1
-SPEAKER 168.645 0.665 <NA> <NA> <NA> speaker_0
-SPEAKER 171.180 0.375 <NA> <NA> <NA> speaker_1
-SPEAKER 171.555 0.500 <NA> <NA> <NA> speaker_0
-SPEAKER 172.055 0.455 <NA> <NA> <NA> speaker_1
-SPEAKER 175.820 0.290 <NA> <NA> <NA> speaker_1
-SPEAKER 178.460 0.850 <NA> <NA> <NA> speaker_1
-SPEAKER 179.660 0.770 <NA> <NA> <NA> speaker_1
-SPEAKER 181.180 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 182.140 1.490 <NA> <NA> <NA> speaker_1
-SPEAKER 183.980 0.450 <NA> <NA> <NA> speaker_1
-SPEAKER 184.940 1.090 <NA> <NA> <NA> speaker_1
-SPEAKER 187.020 3.250 <NA> <NA> <NA> speaker_1
-SPEAKER 191.180 4.530 <NA> <NA> <NA> speaker_1
-SPEAKER 196.540 2.625 <NA> <NA> <NA> speaker_1
-SPEAKER 199.165 3.000 <NA> <NA> <NA> speaker_0
-SPEAKER 202.165 0.825 <NA> <NA> <NA> speaker_1
-SPEAKER 204.700 0.530 <NA> <NA> <NA> speaker_1
-SPEAKER 205.900 1.650 <NA> <NA> <NA> speaker_1
-SPEAKER 209.420 3.490 <NA> <NA> <NA> speaker_0
-SPEAKER 213.420 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 214.300 0.690 <NA> <NA> <NA> speaker_1
-SPEAKER 215.580 1.730 <NA> <NA> <NA> speaker_0
-SPEAKER 221.980 0.875 <NA> <NA> <NA> speaker_1
-SPEAKER 222.855 0.250 <NA> <NA> <NA> speaker_0
-SPEAKER 223.105 0.205 <NA> <NA> <NA> speaker_1
-SPEAKER 225.260 4.130 <NA> <NA> <NA> speaker_1
-SPEAKER 230.700 3.250 <NA> <NA> <NA> speaker_1
-SPEAKER 234.540 3.250 <NA> <NA> <NA> speaker_1
-SPEAKER 238.300 0.930 <NA> <NA> <NA> speaker_1
-SPEAKER 239.900 0.450 <NA> <NA> <NA> speaker_1
-SPEAKER 240.700 6.210 <NA> <NA> <NA> speaker_1
-SPEAKER 248.220 2.130 <NA> <NA> <NA> speaker_0
-SPEAKER 251.100 0.770 <NA> <NA> <NA> speaker_1
-SPEAKER 252.300 1.650 <NA> <NA> <NA> speaker_1
-SPEAKER 254.460 2.450 <NA> <NA> <NA> speaker_1
-SPEAKER 257.340 1.330 <NA> <NA> <NA> speaker_1
-SPEAKER 259.180 1.730 <NA> <NA> <NA> speaker_1
-SPEAKER 261.420 0.875 <NA> <NA> <NA> speaker_1
-SPEAKER 262.295 0.500 <NA> <NA> <NA> speaker_0
-SPEAKER 262.795 3.000 <NA> <NA> <NA> speaker_1
-SPEAKER 265.795 1.000 <NA> <NA> <NA> speaker_0
-SPEAKER 266.795 0.675 <NA> <NA> <NA> speaker_1
-SPEAKER 268.060 1.625 <NA> <NA> <NA> speaker_1
-SPEAKER 269.685 0.250 <NA> <NA> <NA> speaker_0
-SPEAKER 269.935 2.495 <NA> <NA> <NA> speaker_1
-SPEAKER 273.740 0.875 <NA> <NA> <NA> speaker_0
-SPEAKER 274.615 0.215 <NA> <NA> <NA> speaker_1
-SPEAKER 276.460 1.810 <NA> <NA> <NA> speaker_1
-SPEAKER 279.420 0.690 <NA> <NA> <NA> speaker_1
-SPEAKER 280.780 1.810 <NA> <NA> <NA> speaker_1
-SPEAKER 283.500 5.125 <NA> <NA> <NA> speaker_1
-SPEAKER 288.625 2.000 <NA> <NA> <NA> speaker_0
-SPEAKER 290.625 1.000 <NA> <NA> <NA> speaker_1
-SPEAKER 291.625 1.250 <NA> <NA> <NA> speaker_0
-SPEAKER 292.875 2.515 <NA> <NA> <NA> speaker_1
-SPEAKER 296.300 0.450 <NA> <NA> <NA> speaker_1
-SPEAKER 297.260 0.770 <NA> <NA> <NA> speaker_1
-SPEAKER 299.500 8.770 <NA> <NA> <NA> speaker_1
-SPEAKER 308.620 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 309.340 5.490 <NA> <NA> <NA> speaker_1
-SPEAKER 315.260 2.375 <NA> <NA> <NA> speaker_1
-SPEAKER 317.635 1.435 <NA> <NA> <NA> speaker_0
-SPEAKER 319.980 3.125 <NA> <NA> <NA> speaker_1
-SPEAKER 323.105 0.250 <NA> <NA> <NA> speaker_0
-SPEAKER 323.355 0.355 <NA> <NA> <NA> speaker_1
-SPEAKER 324.140 1.890 <NA> <NA> <NA> speaker_1
-SPEAKER 326.460 0.930 <NA> <NA> <NA> speaker_1
-SPEAKER 328.540 0.370 <NA> <NA> <NA> speaker_1
-SPEAKER 330.140 0.450 <NA> <NA> <NA> speaker_2
-SPEAKER 331.340 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 332.300 1.625 <NA> <NA> <NA> speaker_0
-SPEAKER 333.925 0.505 <NA> <NA> <NA> speaker_1
-SPEAKER 334.860 0.450 <NA> <NA> <NA> speaker_2
-SPEAKER 336.140 0.290 <NA> <NA> <NA> speaker_1
-SPEAKER 336.860 1.970 <NA> <NA> <NA> speaker_1
-SPEAKER 339.740 1.170 <NA> <NA> <NA> speaker_1
-SPEAKER 341.340 1.810 <NA> <NA> <NA> speaker_1
-SPEAKER 343.660 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 344.700 3.010 <NA> <NA> <NA> speaker_1
-SPEAKER 348.140 3.375 <NA> <NA> <NA> speaker_1
-SPEAKER 351.515 2.000 <NA> <NA> <NA> speaker_0
-SPEAKER 353.515 1.555 <NA> <NA> <NA> speaker_1
-SPEAKER 355.500 2.625 <NA> <NA> <NA> speaker_0
-SPEAKER 358.125 0.625 <NA> <NA> <NA> speaker_1
-SPEAKER 361.500 0.875 <NA> <NA> <NA> speaker_1
-SPEAKER 362.375 3.000 <NA> <NA> <NA> speaker_0
-SPEAKER 365.375 0.175 <NA> <NA> <NA> speaker_1
-SPEAKER 366.460 1.890 <NA> <NA> <NA> speaker_1
-SPEAKER 368.940 0.850 <NA> <NA> <NA> speaker_1
-SPEAKER 370.540 4.050 <NA> <NA> <NA> speaker_1
-SPEAKER 375.100 3.125 <NA> <NA> <NA> speaker_1
-SPEAKER 378.225 2.250 <NA> <NA> <NA> speaker_0
-SPEAKER 380.475 0.675 <NA> <NA> <NA> speaker_1
-SPEAKER 383.660 1.170 <NA> <NA> <NA> speaker_1
-SPEAKER 385.260 1.010 <NA> <NA> <NA> speaker_1
-SPEAKER 386.940 0.770 <NA> <NA> <NA> speaker_1
-SPEAKER 388.060 0.530 <NA> <NA> <NA> speaker_1
-SPEAKER 389.260 0.625 <NA> <NA> <NA> speaker_0
-SPEAKER 389.885 0.625 <NA> <NA> <NA> speaker_1
-SPEAKER 391.100 2.210 <NA> <NA> <NA> speaker_0
-SPEAKER 393.980 1.490 <NA> <NA> <NA> speaker_0
-SPEAKER 397.900 0.690 <NA> <NA> <NA> speaker_1
-SPEAKER 398.940 0.875 <NA> <NA> <NA> speaker_1
-SPEAKER 399.815 0.750 <NA> <NA> <NA> speaker_0
-SPEAKER 400.565 1.225 <NA> <NA> <NA> speaker_1
-SPEAKER 403.100 0.850 <NA> <NA> <NA> speaker_0
-SPEAKER 405.180 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 406.060 1.625 <NA> <NA> <NA> speaker_1
-SPEAKER 407.685 0.825 <NA> <NA> <NA> speaker_2
-SPEAKER 409.500 2.850 <NA> <NA> <NA> speaker_1
-SPEAKER 412.780 1.490 <NA> <NA> <NA> speaker_1
-SPEAKER 415.020 2.875 <NA> <NA> <NA> speaker_1
-SPEAKER 417.895 2.750 <NA> <NA> <NA> speaker_0
-SPEAKER 420.645 0.250 <NA> <NA> <NA> speaker_1
-SPEAKER 420.895 2.000 <NA> <NA> <NA> speaker_0
-SPEAKER 422.895 1.455 <NA> <NA> <NA> speaker_1
-SPEAKER 424.860 2.625 <NA> <NA> <NA> speaker_1
-SPEAKER 427.485 0.545 <NA> <NA> <NA> speaker_2
-SPEAKER 429.980 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 431.500 0.450 <NA> <NA> <NA> speaker_1
-SPEAKER 433.020 0.450 <NA> <NA> <NA> speaker_1
-SPEAKER 434.060 3.375 <NA> <NA> <NA> speaker_1
-SPEAKER 437.435 1.235 <NA> <NA> <NA> speaker_0
-SPEAKER 439.180 0.530 <NA> <NA> <NA> speaker_1
-SPEAKER 440.060 0.850 <NA> <NA> <NA> speaker_1
-SPEAKER 442.380 2.290 <NA> <NA> <NA> speaker_1
-SPEAKER 445.020 1.650 <NA> <NA> <NA> speaker_1
-SPEAKER 447.580 3.890 <NA> <NA> <NA> speaker_1
-SPEAKER 452.060 3.375 <NA> <NA> <NA> speaker_1
-SPEAKER 455.435 1.750 <NA> <NA> <NA> speaker_0
-SPEAKER 457.185 0.205 <NA> <NA> <NA> speaker_1
-SPEAKER 458.140 1.330 <NA> <NA> <NA> speaker_1
-SPEAKER 461.260 0.290 <NA> <NA> <NA> speaker_1
-SPEAKER 461.980 1.090 <NA> <NA> <NA> speaker_1
-SPEAKER 464.060 1.490 <NA> <NA> <NA> speaker_0
-SPEAKER 468.300 0.690 <NA> <NA> <NA> speaker_2
-SPEAKER 469.420 0.625 <NA> <NA> <NA> speaker_0
-SPEAKER 470.045 0.305 <NA> <NA> <NA> speaker_1
-SPEAKER 472.860 1.570 <NA> <NA> <NA> speaker_0
-SPEAKER 476.620 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 482.860 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 484.460 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 487.580 1.090 <NA> <NA> <NA> speaker_2
-SPEAKER 489.340 1.650 <NA> <NA> <NA> speaker_1
-SPEAKER 492.380 2.690 <NA> <NA> <NA> speaker_1
-SPEAKER 495.500 1.250 <NA> <NA> <NA> speaker_1
-SPEAKER 497.180 1.375 <NA> <NA> <NA> speaker_1
-SPEAKER 498.555 0.755 <NA> <NA> <NA> speaker_0
-SPEAKER 499.660 0.370 <NA> <NA> <NA> speaker_1
-SPEAKER 500.700 1.730 <NA> <NA> <NA> speaker_1
-SPEAKER 504.060 1.375 <NA> <NA> <NA> speaker_0
-SPEAKER 505.435 1.315 <NA> <NA> <NA> speaker_1
-SPEAKER 507.100 0.930 <NA> <NA> <NA> speaker_1
-SPEAKER 510.220 0.770 <NA> <NA> <NA> speaker_0
-SPEAKER 514.460 0.370 <NA> <NA> <NA> speaker_1
-SPEAKER 516.140 0.450 <NA> <NA> <NA> speaker_1
-SPEAKER 517.900 0.290 <NA> <NA> <NA> speaker_1
-SPEAKER 519.420 0.290 <NA> <NA> <NA> speaker_1
-SPEAKER 521.420 0.625 <NA> <NA> <NA> speaker_1
-SPEAKER 522.045 0.385 <NA> <NA> <NA> speaker_2
-SPEAKER 523.740 1.490 <NA> <NA> <NA> speaker_1
-SPEAKER 526.780 2.370 <NA> <NA> <NA> speaker_1
-SPEAKER 529.500 3.875 <NA> <NA> <NA> speaker_1
-SPEAKER 533.375 0.750 <NA> <NA> <NA> speaker_0
-SPEAKER 534.125 0.625 <NA> <NA> <NA> speaker_1
-SPEAKER 535.100 1.810 <NA> <NA> <NA> speaker_1
-SPEAKER 537.820 3.010 <NA> <NA> <NA> speaker_1
-SPEAKER 541.660 0.875 <NA> <NA> <NA> speaker_0
-SPEAKER 542.535 0.500 <NA> <NA> <NA> speaker_1
-SPEAKER 543.035 0.750 <NA> <NA> <NA> speaker_0
-SPEAKER 543.785 1.045 <NA> <NA> <NA> speaker_1
-SPEAKER 545.980 0.770 <NA> <NA> <NA> speaker_1
-SPEAKER 547.100 0.370 <NA> <NA> <NA> speaker_1
-SPEAKER 547.900 1.010 <NA> <NA> <NA> speaker_1
-SPEAKER 549.260 1.490 <NA> <NA> <NA> speaker_1
-SPEAKER 551.340 2.625 <NA> <NA> <NA> speaker_0
-SPEAKER 553.965 1.745 <NA> <NA> <NA> speaker_1
-SPEAKER 556.220 1.250 <NA> <NA> <NA> speaker_1
-SPEAKER 557.900 2.130 <NA> <NA> <NA> speaker_1
-SPEAKER 560.460 0.690 <NA> <NA> <NA> speaker_1
-SPEAKER 561.820 2.850 <NA> <NA> <NA> speaker_1
-SPEAKER 565.180 2.210 <NA> <NA> <NA> speaker_1
-SPEAKER 567.900 0.690 <NA> <NA> <NA> speaker_1
-SPEAKER 568.940 5.410 <NA> <NA> <NA> speaker_1
-SPEAKER 575.260 0.610 <NA> <NA> <NA> speaker_1
-SPEAKER 576.460 0.450 <NA> <NA> <NA> speaker_1
-SPEAKER 582.620 0.875 <NA> <NA> <NA> speaker_0
-SPEAKER 583.495 0.295 <NA> <NA> <NA> speaker_1
-SPEAKER 584.380 2.050 <NA> <NA> <NA> speaker_0
-SPEAKER 589.340 7.570 <NA> <NA> <NA> speaker_0
-SPEAKER 597.820 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 599.100 1.730 <NA> <NA> <NA> speaker_0
-SPEAKER 602.620 0.770 <NA> <NA> <NA> speaker_1
-SPEAKER 605.340 0.450 <NA> <NA> <NA> speaker_2
-SPEAKER 607.580 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 609.660 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 610.380 0.370 <NA> <NA> <NA> speaker_1
-SPEAKER 611.500 0.875 <NA> <NA> <NA> speaker_1
-SPEAKER 612.375 1.500 <NA> <NA> <NA> speaker_0
-SPEAKER 613.875 0.635 <NA> <NA> <NA> speaker_1
-SPEAKER 614.860 2.210 <NA> <NA> <NA> speaker_0
-SPEAKER 617.900 1.410 <NA> <NA> <NA> speaker_0
-SPEAKER 622.300 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 623.260 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 624.380 0.770 <NA> <NA> <NA> speaker_2
-SPEAKER 626.780 0.770 <NA> <NA> <NA> speaker_2
-SPEAKER 627.980 1.730 <NA> <NA> <NA> speaker_1
-SPEAKER 636.060 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 636.700 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 638.700 1.250 <NA> <NA> <NA> speaker_1
-SPEAKER 641.020 0.375 <NA> <NA> <NA> speaker_1
-SPEAKER 641.395 0.250 <NA> <NA> <NA> speaker_0
-SPEAKER 641.645 0.145 <NA> <NA> <NA> speaker_1
-SPEAKER 644.300 0.530 <NA> <NA> <NA> speaker_1
-SPEAKER 646.460 0.625 <NA> <NA> <NA> speaker_0
-SPEAKER 647.085 1.105 <NA> <NA> <NA> speaker_1
-SPEAKER 648.540 4.690 <NA> <NA> <NA> speaker_1
-SPEAKER 653.660 1.970 <NA> <NA> <NA> speaker_1
-SPEAKER 656.060 1.890 <NA> <NA> <NA> speaker_1
-SPEAKER 658.860 1.090 <NA> <NA> <NA> speaker_1
-SPEAKER 660.300 0.690 <NA> <NA> <NA> speaker_1
-SPEAKER 661.580 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 663.500 1.125 <NA> <NA> <NA> speaker_1
-SPEAKER 664.625 0.845 <NA> <NA> <NA> speaker_0
-SPEAKER 665.820 0.450 <NA> <NA> <NA> speaker_0
-SPEAKER 666.620 0.850 <NA> <NA> <NA> speaker_1
-SPEAKER 668.140 1.570 <NA> <NA> <NA> speaker_1
-SPEAKER 671.740 0.530 <NA> <NA> <NA> speaker_0
-SPEAKER 673.020 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 675.340 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 678.940 1.810 <NA> <NA> <NA> speaker_0
-SPEAKER 681.900 1.170 <NA> <NA> <NA> speaker_1
-SPEAKER 685.660 0.875 <NA> <NA> <NA> speaker_1
-SPEAKER 686.535 4.215 <NA> <NA> <NA> speaker_0
-SPEAKER 691.500 1.490 <NA> <NA> <NA> speaker_0
-SPEAKER 695.180 2.125 <NA> <NA> <NA> speaker_0
-SPEAKER 697.305 0.405 <NA> <NA> <NA> speaker_1
-SPEAKER 699.180 1.730 <NA> <NA> <NA> speaker_0
-SPEAKER 701.820 0.690 <NA> <NA> <NA> speaker_1
-SPEAKER 702.940 1.490 <NA> <NA> <NA> speaker_1
-SPEAKER 705.180 2.130 <NA> <NA> <NA> speaker_1
-SPEAKER 707.740 3.490 <NA> <NA> <NA> speaker_1
-SPEAKER 711.580 2.770 <NA> <NA> <NA> speaker_1
-SPEAKER 714.700 5.490 <NA> <NA> <NA> speaker_1
-SPEAKER 720.620 2.450 <NA> <NA> <NA> speaker_1
-SPEAKER 723.500 0.530 <NA> <NA> <NA> speaker_1
-SPEAKER 731.660 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 733.660 0.850 <NA> <NA> <NA> speaker_1
-SPEAKER 735.660 1.250 <NA> <NA> <NA> speaker_0
-SPEAKER 737.500 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 738.780 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 745.980 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 752.460 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 753.340 1.010 <NA> <NA> <NA> speaker_1
-SPEAKER 765.020 1.170 <NA> <NA> <NA> speaker_0
-SPEAKER 767.020 2.290 <NA> <NA> <NA> speaker_1
-SPEAKER 769.820 0.625 <NA> <NA> <NA> speaker_1
-SPEAKER 770.445 0.750 <NA> <NA> <NA> speaker_0
-SPEAKER 771.195 1.875 <NA> <NA> <NA> speaker_1
-SPEAKER 773.580 4.050 <NA> <NA> <NA> speaker_1
-SPEAKER 777.980 2.610 <NA> <NA> <NA> speaker_1
-SPEAKER 781.020 3.810 <NA> <NA> <NA> speaker_1
-SPEAKER 785.420 3.730 <NA> <NA> <NA> speaker_1
-SPEAKER 789.660 0.625 <NA> <NA> <NA> speaker_1
-SPEAKER 790.285 1.250 <NA> <NA> <NA> speaker_0
-SPEAKER 791.535 0.175 <NA> <NA> <NA> speaker_1
-SPEAKER 792.460 1.170 <NA> <NA> <NA> speaker_1
-SPEAKER 794.140 0.875 <NA> <NA> <NA> speaker_0
-SPEAKER 795.015 1.095 <NA> <NA> <NA> speaker_1
-SPEAKER 797.500 1.125 <NA> <NA> <NA> speaker_0
-SPEAKER 798.625 0.500 <NA> <NA> <NA> speaker_1
-SPEAKER 799.125 0.500 <NA> <NA> <NA> speaker_0
-SPEAKER 799.625 0.165 <NA> <NA> <NA> speaker_1
-SPEAKER 800.300 1.410 <NA> <NA> <NA> speaker_0
-SPEAKER 806.460 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 807.900 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 808.540 1.625 <NA> <NA> <NA> speaker_0
-SPEAKER 810.165 0.265 <NA> <NA> <NA> speaker_1
-SPEAKER 813.100 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 815.580 0.625 <NA> <NA> <NA> speaker_1
-SPEAKER 816.205 0.545 <NA> <NA> <NA> speaker_2
-SPEAKER 818.140 1.970 <NA> <NA> <NA> speaker_0
-SPEAKER 820.540 2.690 <NA> <NA> <NA> speaker_0
-SPEAKER 825.020 0.930 <NA> <NA> <NA> speaker_1
-SPEAKER 826.460 1.010 <NA> <NA> <NA> speaker_1
-SPEAKER 829.660 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 833.260 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 835.660 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 836.620 1.625 <NA> <NA> <NA> speaker_1
-SPEAKER 838.245 0.425 <NA> <NA> <NA> speaker_0
-SPEAKER 840.620 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 842.060 1.810 <NA> <NA> <NA> speaker_0
-SPEAKER 844.220 1.410 <NA> <NA> <NA> speaker_0
-SPEAKER 847.260 1.010 <NA> <NA> <NA> speaker_0
-SPEAKER 849.020 0.690 <NA> <NA> <NA> speaker_0
-SPEAKER 854.380 0.450 <NA> <NA> <NA> speaker_1
-SPEAKER 855.340 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 856.300 1.490 <NA> <NA> <NA> speaker_1
-SPEAKER 858.860 0.850 <NA> <NA> <NA> speaker_1
-SPEAKER 860.300 0.450 <NA> <NA> <NA> speaker_1
-SPEAKER 861.100 3.090 <NA> <NA> <NA> speaker_1
-SPEAKER 864.620 3.650 <NA> <NA> <NA> speaker_1
-SPEAKER 868.620 0.770 <NA> <NA> <NA> speaker_1
-SPEAKER 870.380 2.450 <NA> <NA> <NA> speaker_1
-SPEAKER 873.580 0.530 <NA> <NA> <NA> speaker_1
-SPEAKER 874.540 1.890 <NA> <NA> <NA> speaker_1
-SPEAKER 877.580 3.090 <NA> <NA> <NA> speaker_1
-SPEAKER 881.020 0.610 <NA> <NA> <NA> speaker_1
-SPEAKER 882.460 3.890 <NA> <NA> <NA> speaker_1
-SPEAKER 886.700 3.250 <NA> <NA> <NA> speaker_1
-SPEAKER 890.460 1.090 <NA> <NA> <NA> speaker_1
-SPEAKER 892.060 0.450 <NA> <NA> <NA> speaker_1
-SPEAKER 893.020 6.375 <NA> <NA> <NA> speaker_1
-SPEAKER 899.395 0.500 <NA> <NA> <NA> speaker_0
-SPEAKER 899.895 1.095 <NA> <NA> <NA> speaker_1
-SPEAKER 901.660 3.010 <NA> <NA> <NA> speaker_1
-SPEAKER 905.660 1.970 <NA> <NA> <NA> speaker_1
-SPEAKER 908.540 3.890 <NA> <NA> <NA> speaker_1
-SPEAKER 912.780 2.050 <NA> <NA> <NA> speaker_1
-SPEAKER 915.260 4.050 <NA> <NA> <NA> speaker_1
-SPEAKER 919.740 0.850 <NA> <NA> <NA> speaker_1
-SPEAKER 921.500 0.530 <NA> <NA> <NA> speaker_1
-SPEAKER 922.380 0.850 <NA> <NA> <NA> speaker_1
-SPEAKER 923.740 1.090 <NA> <NA> <NA> speaker_1
-SPEAKER 926.300 0.450 <NA> <NA> <NA> speaker_1
-SPEAKER 928.380 2.290 <NA> <NA> <NA> speaker_1
-SPEAKER 931.020 0.625 <NA> <NA> <NA> speaker_1
-SPEAKER 931.645 0.250 <NA> <NA> <NA> speaker_0
-SPEAKER 931.895 4.500 <NA> <NA> <NA> speaker_1
-SPEAKER 936.395 0.500 <NA> <NA> <NA> speaker_0
-SPEAKER 936.895 1.055 <NA> <NA> <NA> speaker_1
-SPEAKER 938.300 1.970 <NA> <NA> <NA> speaker_1
-SPEAKER 941.020 4.050 <NA> <NA> <NA> speaker_1
-SPEAKER 945.580 2.875 <NA> <NA> <NA> speaker_1
-SPEAKER 948.455 1.655 <NA> <NA> <NA> speaker_2
-SPEAKER 950.860 1.875 <NA> <NA> <NA> speaker_1
-SPEAKER 952.735 0.250 <NA> <NA> <NA> speaker_0
-SPEAKER 952.985 4.485 <NA> <NA> <NA> speaker_1
-SPEAKER 957.900 0.930 <NA> <NA> <NA> speaker_1
-SPEAKER 959.500 0.690 <NA> <NA> <NA> speaker_1
-SPEAKER 960.540 2.770 <NA> <NA> <NA> speaker_1
-SPEAKER 963.660 1.810 <NA> <NA> <NA> speaker_1
-SPEAKER 965.980 2.930 <NA> <NA> <NA> speaker_1
-SPEAKER 969.660 2.130 <NA> <NA> <NA> speaker_1
-SPEAKER 972.380 0.370 <NA> <NA> <NA> speaker_1
-SPEAKER 975.740 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 980.220 0.625 <NA> <NA> <NA> speaker_2
-SPEAKER 980.845 1.985 <NA> <NA> <NA> speaker_1
-SPEAKER 983.980 0.930 <NA> <NA> <NA> speaker_1
-SPEAKER 985.340 0.930 <NA> <NA> <NA> speaker_1
-SPEAKER 986.620 0.530 <NA> <NA> <NA> speaker_1
-SPEAKER 987.500 0.290 <NA> <NA> <NA> speaker_1
-SPEAKER 988.220 5.875 <NA> <NA> <NA> speaker_1
-SPEAKER 994.095 1.935 <NA> <NA> <NA> speaker_0
-SPEAKER 997.100 0.690 <NA> <NA> <NA> speaker_2
-SPEAKER 998.460 2.290 <NA> <NA> <NA> speaker_1
-SPEAKER 1003.340 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 1007.500 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 1009.260 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 1009.980 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 1011.020 1.250 <NA> <NA> <NA> speaker_1
-SPEAKER 1012.700 0.850 <NA> <NA> <NA> speaker_1
-SPEAKER 1014.780 0.690 <NA> <NA> <NA> speaker_1
-SPEAKER 1015.820 0.770 <NA> <NA> <NA> speaker_1
-SPEAKER 1017.020 0.450 <NA> <NA> <NA> speaker_1
-SPEAKER 1017.820 1.410 <NA> <NA> <NA> speaker_1
-SPEAKER 1019.580 0.875 <NA> <NA> <NA> speaker_1
-SPEAKER 1020.455 2.135 <NA> <NA> <NA> speaker_0
-SPEAKER 1023.020 1.890 <NA> <NA> <NA> speaker_1
-SPEAKER 1025.740 0.625 <NA> <NA> <NA> speaker_1
-SPEAKER 1026.365 1.025 <NA> <NA> <NA> speaker_0
-SPEAKER 1028.780 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 1029.900 1.010 <NA> <NA> <NA> speaker_1
-SPEAKER 1031.660 2.125 <NA> <NA> <NA> speaker_1
-SPEAKER 1033.785 0.750 <NA> <NA> <NA> speaker_0
-SPEAKER 1034.535 0.250 <NA> <NA> <NA> speaker_1
-SPEAKER 1034.785 1.165 <NA> <NA> <NA> speaker_0
-SPEAKER 1037.420 0.625 <NA> <NA> <NA> speaker_2
-SPEAKER 1038.045 1.745 <NA> <NA> <NA> speaker_1
-SPEAKER 1040.540 0.875 <NA> <NA> <NA> speaker_1
-SPEAKER 1041.415 0.695 <NA> <NA> <NA> speaker_2
-SPEAKER 1042.620 0.930 <NA> <NA> <NA> speaker_1
-SPEAKER 1044.380 0.930 <NA> <NA> <NA> speaker_1
-SPEAKER 1046.060 0.370 <NA> <NA> <NA> speaker_1
-SPEAKER 1046.860 3.170 <NA> <NA> <NA> speaker_1
-SPEAKER 1050.860 1.890 <NA> <NA> <NA> speaker_1
-SPEAKER 1053.100 2.050 <NA> <NA> <NA> speaker_1
-SPEAKER 1058.700 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 1061.180 0.930 <NA> <NA> <NA> speaker_1
-SPEAKER 1065.500 2.290 <NA> <NA> <NA> speaker_1
-SPEAKER 1068.140 0.450 <NA> <NA> <NA> speaker_1
-SPEAKER 1069.500 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 1070.300 1.890 <NA> <NA> <NA> speaker_1
-SPEAKER 1072.780 1.410 <NA> <NA> <NA> speaker_1
-SPEAKER 1074.940 2.930 <NA> <NA> <NA> speaker_1
-SPEAKER 1078.700 0.770 <NA> <NA> <NA> speaker_1
-SPEAKER 1079.980 0.770 <NA> <NA> <NA> speaker_1
-SPEAKER 1081.340 0.850 <NA> <NA> <NA> speaker_1
-SPEAKER 1082.540 2.450 <NA> <NA> <NA> speaker_1
-SPEAKER 1085.580 1.090 <NA> <NA> <NA> speaker_0
-SPEAKER 1088.060 0.625 <NA> <NA> <NA> speaker_0
-SPEAKER 1088.685 0.545 <NA> <NA> <NA> speaker_1
-SPEAKER 1091.500 0.875 <NA> <NA> <NA> speaker_2
-SPEAKER 1092.375 1.975 <NA> <NA> <NA> speaker_1
-SPEAKER 1094.700 1.730 <NA> <NA> <NA> speaker_1
-SPEAKER 1097.180 2.850 <NA> <NA> <NA> speaker_1
-SPEAKER 1100.540 1.570 <NA> <NA> <NA> speaker_1
-SPEAKER 1102.860 0.770 <NA> <NA> <NA> speaker_1
-SPEAKER 1104.220 0.625 <NA> <NA> <NA> speaker_1
-SPEAKER 1104.845 0.750 <NA> <NA> <NA> speaker_0
-SPEAKER 1105.595 0.595 <NA> <NA> <NA> speaker_1
-SPEAKER 1106.940 1.650 <NA> <NA> <NA> speaker_1
-SPEAKER 1112.940 1.010 <NA> <NA> <NA> speaker_1
-SPEAKER 1115.340 0.850 <NA> <NA> <NA> speaker_1
-SPEAKER 1116.700 1.625 <NA> <NA> <NA> speaker_0
-SPEAKER 1118.325 0.985 <NA> <NA> <NA> speaker_1
-SPEAKER 1120.140 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 1121.020 0.690 <NA> <NA> <NA> speaker_2
-SPEAKER 1122.540 0.690 <NA> <NA> <NA> speaker_2
-SPEAKER 1123.580 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 1125.260 0.875 <NA> <NA> <NA> speaker_2
-SPEAKER 1126.135 0.500 <NA> <NA> <NA> speaker_1
-SPEAKER 1126.635 0.755 <NA> <NA> <NA> speaker_2
-SPEAKER 1127.900 0.530 <NA> <NA> <NA> speaker_1
-SPEAKER 1128.780 0.875 <NA> <NA> <NA> speaker_0
-SPEAKER 1129.655 0.750 <NA> <NA> <NA> speaker_1
-SPEAKER 1130.405 1.750 <NA> <NA> <NA> speaker_0
-SPEAKER 1132.155 2.115 <NA> <NA> <NA> speaker_1
-SPEAKER 1134.620 1.010 <NA> <NA> <NA> speaker_1
-SPEAKER 1135.980 1.375 <NA> <NA> <NA> speaker_0
-SPEAKER 1137.355 3.500 <NA> <NA> <NA> speaker_1
-SPEAKER 1140.855 0.750 <NA> <NA> <NA> speaker_0
-SPEAKER 1141.605 1.000 <NA> <NA> <NA> speaker_1
-SPEAKER 1142.605 1.500 <NA> <NA> <NA> speaker_0
-SPEAKER 1144.105 0.645 <NA> <NA> <NA> speaker_1
-SPEAKER 1145.740 0.850 <NA> <NA> <NA> speaker_1
-SPEAKER 1148.300 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 1149.340 0.690 <NA> <NA> <NA> speaker_1
-SPEAKER 1150.860 0.375 <NA> <NA> <NA> speaker_0
-SPEAKER 1151.235 0.500 <NA> <NA> <NA> speaker_1
-SPEAKER 1151.735 1.500 <NA> <NA> <NA> speaker_0
-SPEAKER 1153.235 1.515 <NA> <NA> <NA> speaker_1
-SPEAKER 1156.620 2.625 <NA> <NA> <NA> speaker_1
-SPEAKER 1159.245 0.500 <NA> <NA> <NA> speaker_0
-SPEAKER 1159.745 0.205 <NA> <NA> <NA> speaker_1
-SPEAKER 1160.300 1.330 <NA> <NA> <NA> speaker_1
-SPEAKER 1165.420 0.450 <NA> <NA> <NA> speaker_1
-SPEAKER 1166.620 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 1167.260 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 1168.060 0.850 <NA> <NA> <NA> speaker_1
-SPEAKER 1169.820 0.690 <NA> <NA> <NA> speaker_2
-SPEAKER 1170.940 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 1172.140 0.930 <NA> <NA> <NA> speaker_1
-SPEAKER 1173.660 1.125 <NA> <NA> <NA> speaker_1
-SPEAKER 1174.785 0.250 <NA> <NA> <NA> speaker_0
-SPEAKER 1175.035 0.275 <NA> <NA> <NA> speaker_1
-SPEAKER 1177.020 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 1177.980 0.850 <NA> <NA> <NA> speaker_1
-SPEAKER 1179.260 0.930 <NA> <NA> <NA> speaker_1
-SPEAKER 1180.860 1.875 <NA> <NA> <NA> speaker_1
-SPEAKER 1182.735 2.000 <NA> <NA> <NA> speaker_0
-SPEAKER 1184.735 1.535 <NA> <NA> <NA> speaker_1
-SPEAKER 1186.860 2.375 <NA> <NA> <NA> speaker_1
-SPEAKER 1189.235 0.750 <NA> <NA> <NA> speaker_0
-SPEAKER 1189.985 0.500 <NA> <NA> <NA> speaker_1
-SPEAKER 1190.485 0.585 <NA> <NA> <NA> speaker_0
-SPEAKER 1192.220 0.290 <NA> <NA> <NA> speaker_1
-SPEAKER 1193.580 0.875 <NA> <NA> <NA> speaker_1
-SPEAKER 1194.455 0.750 <NA> <NA> <NA> speaker_0
-SPEAKER 1195.205 0.425 <NA> <NA> <NA> speaker_1
-SPEAKER 1195.980 0.450 <NA> <NA> <NA> speaker_1
-SPEAKER 1196.860 0.370 <NA> <NA> <NA> speaker_1
-SPEAKER 1199.100 2.770 <NA> <NA> <NA> speaker_1
-SPEAKER 1202.700 0.370 <NA> <NA> <NA> speaker_1
-SPEAKER 1203.980 0.370 <NA> <NA> <NA> speaker_1
-SPEAKER 1204.860 0.610 <NA> <NA> <NA> speaker_1
-SPEAKER 1206.780 0.875 <NA> <NA> <NA> speaker_1
-SPEAKER 1207.655 0.535 <NA> <NA> <NA> speaker_2
-SPEAKER 1208.860 0.875 <NA> <NA> <NA> speaker_0
-SPEAKER 1209.735 0.535 <NA> <NA> <NA> speaker_1
-SPEAKER 1211.020 2.130 <NA> <NA> <NA> speaker_1
-SPEAKER 1213.500 1.375 <NA> <NA> <NA> speaker_1
-SPEAKER 1214.875 0.750 <NA> <NA> <NA> speaker_2
-SPEAKER 1215.625 2.565 <NA> <NA> <NA> speaker_1
-SPEAKER 1218.700 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 1219.340 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 1220.140 1.875 <NA> <NA> <NA> speaker_0
-SPEAKER 1222.015 0.250 <NA> <NA> <NA> speaker_1
-SPEAKER 1222.265 0.750 <NA> <NA> <NA> speaker_0
-SPEAKER 1223.015 2.375 <NA> <NA> <NA> speaker_1
-SPEAKER 1225.900 0.450 <NA> <NA> <NA> speaker_1
-SPEAKER 1227.260 4.125 <NA> <NA> <NA> speaker_1
-SPEAKER 1231.385 2.250 <NA> <NA> <NA> speaker_0
-SPEAKER 1233.635 2.250 <NA> <NA> <NA> speaker_1
-SPEAKER 1235.885 0.500 <NA> <NA> <NA> speaker_0
-SPEAKER 1236.385 2.365 <NA> <NA> <NA> speaker_1
-SPEAKER 1239.420 1.970 <NA> <NA> <NA> speaker_1
-SPEAKER 1242.060 0.370 <NA> <NA> <NA> speaker_1
-SPEAKER 1252.060 0.370 <NA> <NA> <NA> speaker_0
-SPEAKER 1253.660 0.690 <NA> <NA> <NA> speaker_1
-SPEAKER 1254.700 0.770 <NA> <NA> <NA> speaker_1
-SPEAKER 1259.020 0.370 <NA> <NA> <NA> speaker_0
-SPEAKER 1266.780 0.530 <NA> <NA> <NA> speaker_2
-SPEAKER 1267.740 0.450 <NA> <NA> <NA> speaker_2
-SPEAKER 1271.900 2.370 <NA> <NA> <NA> speaker_1
-SPEAKER 1274.940 1.330 <NA> <NA> <NA> speaker_1
-SPEAKER 1276.780 2.050 <NA> <NA> <NA> speaker_1
-SPEAKER 1279.180 0.770 <NA> <NA> <NA> speaker_1
-SPEAKER 1280.620 2.875 <NA> <NA> <NA> speaker_1
-SPEAKER 1283.495 0.500 <NA> <NA> <NA> speaker_2
-SPEAKER 1283.995 0.835 <NA> <NA> <NA> speaker_1
-SPEAKER 1285.260 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 1286.140 3.010 <NA> <NA> <NA> speaker_1
-SPEAKER 1289.900 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 1290.860 0.530 <NA> <NA> <NA> speaker_1
-SPEAKER 1292.220 4.610 <NA> <NA> <NA> speaker_1
-SPEAKER 1297.820 0.450 <NA> <NA> <NA> speaker_1
-SPEAKER 1301.500 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 1303.100 0.375 <NA> <NA> <NA> speaker_0
-SPEAKER 1303.475 0.635 <NA> <NA> <NA> speaker_1
-SPEAKER 1306.620 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 1308.220 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 1309.020 4.930 <NA> <NA> <NA> speaker_0
-SPEAKER 1315.820 0.850 <NA> <NA> <NA> speaker_2
-SPEAKER 1319.260 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 1320.380 0.370 <NA> <NA> <NA> speaker_1
-SPEAKER 1321.580 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 1324.620 0.875 <NA> <NA> <NA> speaker_1
-SPEAKER 1325.495 0.500 <NA> <NA> <NA> speaker_2
-SPEAKER 1325.995 1.750 <NA> <NA> <NA> speaker_1
-SPEAKER 1327.745 1.085 <NA> <NA> <NA> speaker_2
-SPEAKER 1329.180 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 1330.140 3.330 <NA> <NA> <NA> speaker_1
-SPEAKER 1334.220 0.625 <NA> <NA> <NA> speaker_1
-SPEAKER 1334.845 0.145 <NA> <NA> <NA> speaker_2
-SPEAKER 1335.500 5.410 <NA> <NA> <NA> speaker_1
-SPEAKER 1341.500 0.850 <NA> <NA> <NA> speaker_1
-SPEAKER 1342.700 5.890 <NA> <NA> <NA> speaker_1
-SPEAKER 1348.940 1.890 <NA> <NA> <NA> speaker_1
-SPEAKER 1351.180 1.890 <NA> <NA> <NA> speaker_1
-SPEAKER 1357.660 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 1358.940 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 1362.060 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 1362.780 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 1369.980 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 1373.420 2.610 <NA> <NA> <NA> speaker_1
-SPEAKER 1380.060 2.370 <NA> <NA> <NA> speaker_1
-SPEAKER 1383.500 0.625 <NA> <NA> <NA> speaker_1
-SPEAKER 1384.125 0.250 <NA> <NA> <NA> speaker_2
-SPEAKER 1384.375 0.135 <NA> <NA> <NA> speaker_1
-SPEAKER 1385.340 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 1386.300 3.730 <NA> <NA> <NA> speaker_1
-SPEAKER 1390.380 1.330 <NA> <NA> <NA> speaker_1
-SPEAKER 1392.060 3.170 <NA> <NA> <NA> speaker_1
-SPEAKER 1395.580 0.770 <NA> <NA> <NA> speaker_1
-SPEAKER 1397.020 0.290 <NA> <NA> <NA> speaker_0
-SPEAKER 1397.820 0.850 <NA> <NA> <NA> speaker_1
-SPEAKER 1399.020 4.625 <NA> <NA> <NA> speaker_1
-SPEAKER 1403.645 0.465 <NA> <NA> <NA> speaker_2
-SPEAKER 1405.740 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 1406.620 0.370 <NA> <NA> <NA> speaker_1
-SPEAKER 1407.340 1.330 <NA> <NA> <NA> speaker_1
-SPEAKER 1409.660 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 1410.540 4.210 <NA> <NA> <NA> speaker_1
-SPEAKER 1415.180 2.375 <NA> <NA> <NA> speaker_1
-SPEAKER 1417.555 1.000 <NA> <NA> <NA> speaker_0
-SPEAKER 1418.555 0.755 <NA> <NA> <NA> speaker_1
-SPEAKER 1420.300 0.370 <NA> <NA> <NA> speaker_1
-SPEAKER 1421.340 0.450 <NA> <NA> <NA> speaker_1
-SPEAKER 1423.820 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 1428.620 1.490 <NA> <NA> <NA> speaker_1
-SPEAKER 1431.820 0.370 <NA> <NA> <NA> speaker_1
-SPEAKER 1432.700 1.330 <NA> <NA> <NA> speaker_1
-SPEAKER 1434.380 0.625 <NA> <NA> <NA> speaker_1
-SPEAKER 1435.005 1.500 <NA> <NA> <NA> speaker_0
-SPEAKER 1436.505 0.965 <NA> <NA> <NA> speaker_1
-SPEAKER 1438.140 2.850 <NA> <NA> <NA> speaker_1
-SPEAKER 1441.420 0.530 <NA> <NA> <NA> speaker_1
-SPEAKER 1442.300 2.290 <NA> <NA> <NA> speaker_1
-SPEAKER 1444.940 0.690 <NA> <NA> <NA> speaker_1
-SPEAKER 1445.980 0.850 <NA> <NA> <NA> speaker_1
-SPEAKER 1447.420 0.370 <NA> <NA> <NA> speaker_1
-SPEAKER 1448.300 2.130 <NA> <NA> <NA> speaker_1
-SPEAKER 1452.540 0.450 <NA> <NA> <NA> speaker_1
-SPEAKER 1453.500 2.530 <NA> <NA> <NA> speaker_1
-SPEAKER 1456.380 1.410 <NA> <NA> <NA> speaker_1
-SPEAKER 1459.500 0.530 <NA> <NA> <NA> speaker_1
-SPEAKER 1462.860 1.250 <NA> <NA> <NA> speaker_1
-SPEAKER 1464.540 1.010 <NA> <NA> <NA> speaker_1
-SPEAKER 1466.620 0.850 <NA> <NA> <NA> speaker_1
-SPEAKER 1469.500 1.410 <NA> <NA> <NA> speaker_1
-SPEAKER 1472.220 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 1474.380 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 1475.100 1.125 <NA> <NA> <NA> speaker_1
-SPEAKER 1476.225 1.500 <NA> <NA> <NA> speaker_0
-SPEAKER 1477.725 0.625 <NA> <NA> <NA> speaker_1
-SPEAKER 1479.180 0.770 <NA> <NA> <NA> speaker_1
-SPEAKER 1481.020 0.375 <NA> <NA> <NA> speaker_1
-SPEAKER 1481.395 1.675 <NA> <NA> <NA> speaker_0
-SPEAKER 1483.420 0.450 <NA> <NA> <NA> speaker_1
-SPEAKER 1486.780 0.690 <NA> <NA> <NA> speaker_1
-SPEAKER 1489.340 0.875 <NA> <NA> <NA> speaker_1
-SPEAKER 1490.215 1.095 <NA> <NA> <NA> speaker_0
-SPEAKER 1491.740 1.170 <NA> <NA> <NA> speaker_1
-SPEAKER 1493.260 0.450 <NA> <NA> <NA> speaker_1
-SPEAKER 1494.220 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 1496.060 0.610 <NA> <NA> <NA> speaker_1
-SPEAKER 1497.340 1.125 <NA> <NA> <NA> speaker_1
-SPEAKER 1498.465 1.725 <NA> <NA> <NA> speaker_0
-SPEAKER 1502.620 0.450 <NA> <NA> <NA> speaker_1
-SPEAKER 1503.820 0.770 <NA> <NA> <NA> speaker_1
-SPEAKER 1505.820 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 1506.620 0.875 <NA> <NA> <NA> speaker_0
-SPEAKER 1507.495 0.455 <NA> <NA> <NA> speaker_1
-SPEAKER 1508.940 0.875 <NA> <NA> <NA> speaker_1
-SPEAKER 1509.815 2.935 <NA> <NA> <NA> speaker_0
-SPEAKER 1513.260 0.530 <NA> <NA> <NA> speaker_1
-SPEAKER 1515.980 1.650 <NA> <NA> <NA> speaker_1
-SPEAKER 1517.980 1.250 <NA> <NA> <NA> speaker_1
-SPEAKER 1521.100 0.450 <NA> <NA> <NA> speaker_1
-SPEAKER 1522.460 1.250 <NA> <NA> <NA> speaker_1
-SPEAKER 1524.460 0.370 <NA> <NA> <NA> speaker_2
-SPEAKER 1525.900 4.125 <NA> <NA> <NA> speaker_0
-SPEAKER 1530.025 0.965 <NA> <NA> <NA> speaker_1
-SPEAKER 1531.580 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 1532.460 0.875 <NA> <NA> <NA> speaker_1
-SPEAKER 1533.335 1.335 <NA> <NA> <NA> speaker_0
-SPEAKER 1535.020 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 1535.820 1.330 <NA> <NA> <NA> speaker_1
-SPEAKER 1539.820 0.930 <NA> <NA> <NA> speaker_0
-SPEAKER 1541.340 0.690 <NA> <NA> <NA> speaker_1
-SPEAKER 1545.340 2.050 <NA> <NA> <NA> speaker_1
-SPEAKER 1547.740 0.875 <NA> <NA> <NA> speaker_0
-SPEAKER 1548.615 0.375 <NA> <NA> <NA> speaker_1
-SPEAKER 1550.380 1.090 <NA> <NA> <NA> speaker_0
-SPEAKER 1552.940 0.375 <NA> <NA> <NA> speaker_0
-SPEAKER 1553.315 1.000 <NA> <NA> <NA> speaker_1
-SPEAKER 1554.315 0.250 <NA> <NA> <NA> speaker_0
-SPEAKER 1554.565 1.145 <NA> <NA> <NA> speaker_1
-SPEAKER 1556.220 0.450 <NA> <NA> <NA> speaker_1
-SPEAKER 1557.020 1.010 <NA> <NA> <NA> speaker_1
-SPEAKER 1558.860 1.090 <NA> <NA> <NA> speaker_1
-SPEAKER 1560.460 0.370 <NA> <NA> <NA> speaker_0
-SPEAKER 1561.660 0.450 <NA> <NA> <NA> speaker_2
-SPEAKER 1562.540 0.625 <NA> <NA> <NA> speaker_1
-SPEAKER 1563.165 0.545 <NA> <NA> <NA> speaker_0
-SPEAKER 1565.260 0.450 <NA> <NA> <NA> speaker_1
-SPEAKER 1567.100 0.625 <NA> <NA> <NA> speaker_1
-SPEAKER 1567.725 1.025 <NA> <NA> <NA> speaker_0
-SPEAKER 1569.340 0.290 <NA> <NA> <NA> speaker_1
-SPEAKER 1570.060 0.290 <NA> <NA> <NA> speaker_1
-SPEAKER 1570.780 0.610 <NA> <NA> <NA> speaker_1
-SPEAKER 1572.780 0.930 <NA> <NA> <NA> speaker_1
-SPEAKER 1574.540 1.650 <NA> <NA> <NA> speaker_1
-SPEAKER 1578.380 0.450 <NA> <NA> <NA> speaker_1
-SPEAKER 1582.780 0.290 <NA> <NA> <NA> speaker_2
-SPEAKER 1583.420 0.530 <NA> <NA> <NA> speaker_2
-SPEAKER 1587.500 0.370 <NA> <NA> <NA> speaker_2
+SPEAKER p12-s6_denoised 1   1.500   1.090 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   4.220   0.875 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   5.095   0.775 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   6.380   3.970 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   10.940   0.290 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   11.900   3.250 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   15.580   0.850 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   16.780   1.375 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   18.155   6.000 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   24.155   0.500 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   24.655   2.575 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   28.300   0.875 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   29.175   1.335 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   31.660   1.010 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   35.740   0.375 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   36.115   0.155 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   40.140   1.650 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   42.140   3.375 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   45.515   0.355 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   46.620   1.375 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   47.995   1.000 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   48.995   0.315 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   49.740   2.770 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   53.100   5.250 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   58.940   1.970 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   61.660   0.370 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   63.740   0.770 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   65.020   0.530 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   66.140   1.810 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   69.340   2.375 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   71.715   1.835 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   73.980   2.125 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   76.105   3.445 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   80.540   3.650 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   84.620   4.850 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   89.820   5.330 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   95.820   0.930 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   97.180   0.290 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   98.620   3.250 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   105.260   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   107.820   0.610 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   112.700   0.530 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   115.420   0.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   116.780   0.370 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   117.740   1.625 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   119.365   0.425 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   120.380   0.530 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   122.540   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   123.260   1.090 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   125.180   2.370 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   129.100   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   130.460   0.375 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   130.835   0.155 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   131.500   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   133.180   0.850 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   135.980   0.610 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   137.740   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   139.020   1.890 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   141.420   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   142.140   0.530 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   144.220   1.810 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   146.380   1.730 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   148.620   0.770 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   149.900   0.530 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   150.940   0.875 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   151.815   0.750 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   152.565   0.750 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   153.315   1.275 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   155.340   4.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   160.300   0.875 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   161.175   0.775 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   162.380   1.625 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   164.005   0.345 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   165.580   1.090 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   167.020   1.625 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   168.645   0.665 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   171.180   0.375 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   171.555   0.500 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   172.055   0.455 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   175.820   0.290 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   178.460   0.850 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   179.660   0.770 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   181.180   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   182.140   1.490 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   183.980   0.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   184.940   1.090 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   187.020   3.250 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   191.180   4.530 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   196.540   2.625 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   199.165   3.000 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   202.165   0.825 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   204.700   0.530 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   205.900   1.650 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   209.420   3.490 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   213.420   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   214.300   0.690 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   215.580   1.730 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   221.980   0.875 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   222.855   0.250 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   223.105   0.205 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   225.260   4.130 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   230.700   3.250 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   234.540   3.250 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   238.300   0.930 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   239.900   0.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   240.700   6.210 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   248.220   2.130 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   251.100   0.770 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   252.300   1.650 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   254.460   2.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   257.340   1.330 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   259.180   1.730 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   261.420   0.875 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   262.295   0.500 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   262.795   3.000 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   265.795   1.000 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   266.795   0.675 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   268.060   1.625 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   269.685   0.250 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   269.935   2.495 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   273.740   0.875 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   274.615   0.215 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   276.460   1.810 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   279.420   0.690 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   280.780   1.810 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   283.500   5.125 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   288.625   2.000 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   290.625   1.000 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   291.625   1.250 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   292.875   2.515 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   296.300   0.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   297.260   0.770 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   299.500   8.770 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   308.620   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   309.340   5.490 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   315.260   2.375 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   317.635   1.435 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   319.980   3.125 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   323.105   0.250 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   323.355   0.355 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   324.140   1.890 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   326.460   0.930 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   328.540   0.370 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   330.140   0.450 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   331.340   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   332.300   1.625 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   333.925   0.505 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   334.860   0.450 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   336.140   0.290 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   336.860   1.970 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   339.740   1.170 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   341.340   1.810 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   343.660   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   344.700   3.010 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   348.140   3.375 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   351.515   2.000 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   353.515   1.555 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   355.500   2.625 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   358.125   0.625 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   361.500   0.875 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   362.375   3.000 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   365.375   0.175 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   366.460   1.890 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   368.940   0.850 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   370.540   4.050 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   375.100   3.125 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   378.225   2.250 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   380.475   0.675 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   383.660   1.170 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   385.260   1.010 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   386.940   0.770 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   388.060   0.530 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   389.260   0.625 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   389.885   0.625 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   391.100   2.210 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   393.980   1.490 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   397.900   0.690 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   398.940   0.875 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   399.815   0.750 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   400.565   1.225 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   403.100   0.850 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   405.180   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   406.060   1.625 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   407.685   0.825 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   409.500   2.850 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   412.780   1.490 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   415.020   2.875 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   417.895   2.750 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   420.645   0.250 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   420.895   2.000 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   422.895   1.455 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   424.860   2.625 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   427.485   0.545 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   429.980   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   431.500   0.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   433.020   0.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   434.060   3.375 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   437.435   1.235 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   439.180   0.530 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   440.060   0.850 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   442.380   2.290 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   445.020   1.650 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   447.580   3.890 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   452.060   3.375 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   455.435   1.750 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   457.185   0.205 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   458.140   1.330 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   461.260   0.290 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   461.980   1.090 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   464.060   1.490 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   468.300   0.690 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   469.420   0.625 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   470.045   0.305 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   472.860   1.570 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   476.620   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   482.860   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   484.460   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   487.580   1.090 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   489.340   1.650 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   492.380   2.690 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   495.500   1.250 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   497.180   1.375 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   498.555   0.755 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   499.660   0.370 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   500.700   1.730 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   504.060   1.375 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   505.435   1.315 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   507.100   0.930 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   510.220   0.770 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   514.460   0.370 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   516.140   0.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   517.900   0.290 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   519.420   0.290 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   521.420   0.625 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   522.045   0.385 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   523.740   1.490 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   526.780   2.370 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   529.500   3.875 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   533.375   0.750 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   534.125   0.625 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   535.100   1.810 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   537.820   3.010 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   541.660   0.875 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   542.535   0.500 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   543.035   0.750 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   543.785   1.045 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   545.980   0.770 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   547.100   0.370 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   547.900   1.010 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   549.260   1.490 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   551.340   2.625 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   553.965   1.745 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   556.220   1.250 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   557.900   2.130 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   560.460   0.690 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   561.820   2.850 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   565.180   2.210 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   567.900   0.690 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   568.940   5.410 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   575.260   0.610 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   576.460   0.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   582.620   0.875 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   583.495   0.295 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   584.380   2.050 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   589.340   7.570 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   597.820   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   599.100   1.730 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   602.620   0.770 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   605.340   0.450 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   607.580   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   609.660   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   610.380   0.370 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   611.500   0.875 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   612.375   1.500 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   613.875   0.635 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   614.860   2.210 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   617.900   1.410 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   622.300   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   623.260   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   624.380   0.770 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   626.780   0.770 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   627.980   1.730 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   636.060   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   636.700   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   638.700   1.250 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   641.020   0.375 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   641.395   0.250 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   641.645   0.145 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   644.300   0.530 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   646.460   0.625 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   647.085   1.105 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   648.540   4.690 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   653.660   1.970 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   656.060   1.890 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   658.860   1.090 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   660.300   0.690 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   661.580   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   663.500   1.125 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   664.625   0.845 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   665.820   0.450 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   666.620   0.850 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   668.140   1.570 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   671.740   0.530 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   673.020   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   675.340   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   678.940   1.810 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   681.900   1.170 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   685.660   0.875 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   686.535   4.215 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   691.500   1.490 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   695.180   2.125 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   697.305   0.405 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   699.180   1.730 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   701.820   0.690 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   702.940   1.490 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   705.180   2.130 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   707.740   3.490 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   711.580   2.770 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   714.700   5.490 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   720.620   2.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   723.500   0.530 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   731.660   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   733.660   0.850 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   735.660   1.250 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   737.500   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   738.780   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   745.980   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   752.460   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   753.340   1.010 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   765.020   1.170 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   767.020   2.290 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   769.820   0.625 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   770.445   0.750 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   771.195   1.875 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   773.580   4.050 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   777.980   2.610 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   781.020   3.810 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   785.420   3.730 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   789.660   0.625 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   790.285   1.250 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   791.535   0.175 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   792.460   1.170 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   794.140   0.875 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   795.015   1.095 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   797.500   1.125 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   798.625   0.500 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   799.125   0.500 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   799.625   0.165 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   800.300   1.410 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   806.460   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   807.900   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   808.540   1.625 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   810.165   0.265 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   813.100   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   815.580   0.625 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   816.205   0.545 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   818.140   1.970 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   820.540   2.690 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   825.020   0.930 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   826.460   1.010 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   829.660   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   833.260   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   835.660   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   836.620   1.625 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   838.245   0.425 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   840.620   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   842.060   1.810 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   844.220   1.410 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   847.260   1.010 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   849.020   0.690 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   854.380   0.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   855.340   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   856.300   1.490 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   858.860   0.850 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   860.300   0.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   861.100   3.090 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   864.620   3.650 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   868.620   0.770 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   870.380   2.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   873.580   0.530 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   874.540   1.890 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   877.580   3.090 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   881.020   0.610 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   882.460   3.890 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   886.700   3.250 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   890.460   1.090 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   892.060   0.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   893.020   6.375 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   899.395   0.500 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   899.895   1.095 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   901.660   3.010 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   905.660   1.970 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   908.540   3.890 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   912.780   2.050 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   915.260   4.050 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   919.740   0.850 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   921.500   0.530 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   922.380   0.850 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   923.740   1.090 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   926.300   0.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   928.380   2.290 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   931.020   0.625 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   931.645   0.250 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   931.895   4.500 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   936.395   0.500 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   936.895   1.055 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   938.300   1.970 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   941.020   4.050 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   945.580   2.875 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   948.455   1.655 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   950.860   1.875 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   952.735   0.250 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   952.985   4.485 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   957.900   0.930 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   959.500   0.690 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   960.540   2.770 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   963.660   1.810 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   965.980   2.930 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   969.660   2.130 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   972.380   0.370 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   975.740   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   980.220   0.625 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   980.845   1.985 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   983.980   0.930 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   985.340   0.930 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   986.620   0.530 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   987.500   0.290 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   988.220   5.875 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   994.095   1.935 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   997.100   0.690 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   998.460   2.290 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1003.340   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1007.500   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1009.260   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1009.980   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1011.020   1.250 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1012.700   0.850 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1014.780   0.690 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1015.820   0.770 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1017.020   0.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1017.820   1.410 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1019.580   0.875 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1020.455   2.135 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1023.020   1.890 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1025.740   0.625 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1026.365   1.025 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1028.780   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1029.900   1.010 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1031.660   2.125 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1033.785   0.750 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1034.535   0.250 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1034.785   1.165 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1037.420   0.625 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1038.045   1.745 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1040.540   0.875 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1041.415   0.695 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1042.620   0.930 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1044.380   0.930 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1046.060   0.370 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1046.860   3.170 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1050.860   1.890 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1053.100   2.050 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1058.700   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1061.180   0.930 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1065.500   2.290 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1068.140   0.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1069.500   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1070.300   1.890 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1072.780   1.410 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1074.940   2.930 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1078.700   0.770 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1079.980   0.770 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1081.340   0.850 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1082.540   2.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1085.580   1.090 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1088.060   0.625 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1088.685   0.545 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1091.500   0.875 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1092.375   1.975 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1094.700   1.730 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1097.180   2.850 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1100.540   1.570 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1102.860   0.770 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1104.220   0.625 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1104.845   0.750 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1105.595   0.595 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1106.940   1.650 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1112.940   1.010 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1115.340   0.850 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1116.700   1.625 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1118.325   0.985 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1120.140   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1121.020   0.690 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1122.540   0.690 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1123.580   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1125.260   0.875 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1126.135   0.500 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1126.635   0.755 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1127.900   0.530 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1128.780   0.875 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1129.655   0.750 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1130.405   1.750 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1132.155   2.115 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1134.620   1.010 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1135.980   1.375 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1137.355   3.500 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1140.855   0.750 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1141.605   1.000 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1142.605   1.500 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1144.105   0.645 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1145.740   0.850 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1148.300   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1149.340   0.690 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1150.860   0.375 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1151.235   0.500 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1151.735   1.500 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1153.235   1.515 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1156.620   2.625 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1159.245   0.500 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1159.745   0.205 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1160.300   1.330 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1165.420   0.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1166.620   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1167.260   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1168.060   0.850 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1169.820   0.690 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1170.940   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1172.140   0.930 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1173.660   1.125 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1174.785   0.250 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1175.035   0.275 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1177.020   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1177.980   0.850 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1179.260   0.930 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1180.860   1.875 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1182.735   2.000 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1184.735   1.535 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1186.860   2.375 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1189.235   0.750 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1189.985   0.500 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1190.485   0.585 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1192.220   0.290 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1193.580   0.875 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1194.455   0.750 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1195.205   0.425 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1195.980   0.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1196.860   0.370 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1199.100   2.770 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1202.700   0.370 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1203.980   0.370 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1204.860   0.610 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1206.780   0.875 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1207.655   0.535 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1208.860   0.875 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1209.735   0.535 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1211.020   2.130 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1213.500   1.375 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1214.875   0.750 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1215.625   2.565 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1218.700   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1219.340   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1220.140   1.875 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1222.015   0.250 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1222.265   0.750 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1223.015   2.375 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1225.900   0.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1227.260   4.125 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1231.385   2.250 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1233.635   2.250 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1235.885   0.500 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1236.385   2.365 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1239.420   1.970 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1242.060   0.370 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1252.060   0.370 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1253.660   0.690 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1254.700   0.770 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1259.020   0.370 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1266.780   0.530 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1267.740   0.450 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1271.900   2.370 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1274.940   1.330 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1276.780   2.050 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1279.180   0.770 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1280.620   2.875 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1283.495   0.500 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1283.995   0.835 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1285.260   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1286.140   3.010 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1289.900   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1290.860   0.530 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1292.220   4.610 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1297.820   0.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1301.500   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1303.100   0.375 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1303.475   0.635 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1306.620   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1308.220   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1309.020   4.930 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1315.820   0.850 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1319.260   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1320.380   0.370 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1321.580   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1324.620   0.875 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1325.495   0.500 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1325.995   1.750 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1327.745   1.085 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1329.180   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1330.140   3.330 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1334.220   0.625 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1334.845   0.145 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1335.500   5.410 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1341.500   0.850 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1342.700   5.890 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1348.940   1.890 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1351.180   1.890 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1357.660   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1358.940   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1362.060   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1362.780   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1369.980   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1373.420   2.610 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1380.060   2.370 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1383.500   0.625 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1384.125   0.250 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1384.375   0.135 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1385.340   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1386.300   3.730 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1390.380   1.330 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1392.060   3.170 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1395.580   0.770 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1397.020   0.290 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1397.820   0.850 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1399.020   4.625 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1403.645   0.465 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1405.740   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1406.620   0.370 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1407.340   1.330 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1409.660   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1410.540   4.210 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1415.180   2.375 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1417.555   1.000 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1418.555   0.755 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1420.300   0.370 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1421.340   0.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1423.820   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1428.620   1.490 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1431.820   0.370 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1432.700   1.330 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1434.380   0.625 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1435.005   1.500 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1436.505   0.965 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1438.140   2.850 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1441.420   0.530 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1442.300   2.290 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1444.940   0.690 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1445.980   0.850 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1447.420   0.370 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1448.300   2.130 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1452.540   0.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1453.500   2.530 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1456.380   1.410 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1459.500   0.530 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1462.860   1.250 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1464.540   1.010 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1466.620   0.850 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1469.500   1.410 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1472.220   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1474.380   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1475.100   1.125 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1476.225   1.500 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1477.725   0.625 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1479.180   0.770 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1481.020   0.375 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1481.395   1.675 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1483.420   0.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1486.780   0.690 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1489.340   0.875 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1490.215   1.095 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1491.740   1.170 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1493.260   0.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1494.220   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1496.060   0.610 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1497.340   1.125 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1498.465   1.725 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1502.620   0.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1503.820   0.770 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1505.820   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1506.620   0.875 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1507.495   0.455 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1508.940   0.875 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1509.815   2.935 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1513.260   0.530 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1515.980   1.650 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1517.980   1.250 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1521.100   0.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1522.460   1.250 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1524.460   0.370 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1525.900   4.125 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1530.025   0.965 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1531.580   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1532.460   0.875 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1533.335   1.335 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1535.020   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1535.820   1.330 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1539.820   0.930 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1541.340   0.690 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1545.340   2.050 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1547.740   0.875 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1548.615   0.375 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1550.380   1.090 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1552.940   0.375 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1553.315   1.000 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1554.315   0.250 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1554.565   1.145 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1556.220   0.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1557.020   1.010 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1558.860   1.090 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1560.460   0.370 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1561.660   0.450 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1562.540   0.625 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1563.165   0.545 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1565.260   0.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1567.100   0.625 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1567.725   1.025 <NA> <NA> speaker_0 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1569.340   0.290 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1570.060   0.290 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1570.780   0.610 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1572.780   0.930 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1574.540   1.650 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1578.380   0.450 <NA> <NA> speaker_1 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1582.780   0.290 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1583.420   0.530 <NA> <NA> speaker_2 <NA> <NA>
+SPEAKER p12-s6_denoised 1   1587.500   0.370 <NA> <NA> speaker_2 <NA> <NA>
