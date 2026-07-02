@@ -93,8 +93,8 @@ def preprocess_audio(audio_path: str) -> str:
         # load audio file as an AudioSegment object
         audio = AudioSegment.from_file(audio_path)
     except Exception as e:
-        logger.error(f"❌ Failed to load audio file: {e}")
-        sys.exit(1)
+        print(e)
+        raise
         
     if audio.channels == 1 and audio_path.lower().endswith(".wav"):
         logger.info("✅ Audio is already Mono WAV. No conversion needed.")
@@ -144,8 +144,9 @@ def create_manifest(audio_path: str, manifest_path: str, num_speakers=None):
         "duration": duration,
         "label": "infer",
         "text": "-",
-        "num_speakers": num_speakers,
+        "num_speakers": None if num_speakers == 0 else num_speakers,
         "rttm_filepath": None,
+        "uem_filepath": None,
     }
 
     with open(manifest_path, "w") as f:
@@ -203,7 +204,13 @@ def run_cascaded_pipeline(
 
     # --- Create manifest file ---
     manifest_path = os.path.join(output_dir, "input_manifest.json")
-    create_manifest(audio_path, manifest_path, num_speakers=num_speakers)
+    manifest_num_speakers = None if num_speakers == 0 else num_speakers
+
+    create_manifest(
+        audio_path,
+        manifest_path,
+        num_speakers=manifest_num_speakers,
+    )   
 
     # --- Build diarization config ---
     # This is the Hydra/OmegaConf config that controls the entire pipeline.
@@ -225,8 +232,8 @@ def run_cascaded_pipeline(
                     "shift_length_in_sec": 0.01,
                     "smoothing": "median",
                     "overlap": 0.5,
-                    "onset": 0.5,
-                    "offset": 0.5,
+                    "onset": 0.4,
+                    "offset": 0.7,
                     "pad_onset": 0.1,
                     "pad_offset": 0.1,
                     "min_duration_on": 0.2,
@@ -255,7 +262,7 @@ def run_cascaded_pipeline(
                     "oracle_num_speakers": num_speakers > 0,
                     "max_num_speakers": max_num_speakers,
                     "enhanced_count_thres": 80,
-                    "max_rp_threshold": 0.25,
+                    "max_rp_threshold": 0.15,
                     "sparse_search_volume": 30,
                 },
             },
@@ -268,7 +275,7 @@ def run_cascaded_pipeline(
                     "use_speaker_model_from_ckpt": False,
 
                     "diar_window_length": 50,
-                    "sigmoid_threshold": [0.3],
+                    "sigmoid_threshold": [0.7],
                     "overlap_infer_spk_limit": 5,
 
                     "infer_batch_size": 25,
@@ -294,6 +301,7 @@ def run_cascaded_pipeline(
         "num_workers": 0,
         "verbose": True,
         "device": device,
+
     })
 
     # Override num_speakers if specified
@@ -316,8 +324,6 @@ def run_cascaded_pipeline(
     logger.info("🚀 Initializing NeuralDiarizer...")
     # Measure Time
     start_time = time.time()
-    print(OmegaConf.to_yaml(config))
-    print(config.keys())
 
     print("Embedding model:", config.diarizer.speaker_embeddings.model_path)
     print("MSDD model:", config.diarizer.msdd_model.model_path)
@@ -325,6 +331,7 @@ def run_cascaded_pipeline(
         config.diarizer.msdd_model.parameters.use_speaker_model_from_ckpt)
 
     # Create the NeuralDiarizer object with the provided configuration. 
+
     diarizer = NeuralDiarizer(cfg=config)
     logger.info("🎙️  Running diarization...")
     # Run Diarization.

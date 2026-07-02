@@ -8,17 +8,25 @@ AUDIO_DIR_RAW = Path("/media/interactionlab/One Touch/ASD_Dataset/all-audios")
 
 
 EXPERIMENTS = [
-    {
-        "audio_dir": AUDIO_DIR_RAW,
-        "audio_type": "raw_audios",
-        "vad": "vad_multilingual_marblenet",
-        "embedding": "titanet_large",
-    },
+    # {
+    #     "audio_dir": AUDIO_DIR_RAW,
+    #     "audio_type": "raw_audios",
+    #     "vad": "vad_multilingual_marblenet",
+    #     "embedding": "titanet_large",
+    # },
+    # {
+    #     "audio_dir": AUDIO_DIR_DENOISED,
+    #     "audio_type": "denoised_audios",
+    #     "vad": "vad_multilingual_marblenet",
+    #     "embedding": "ecapa_tdnn",
+    # },
+
     {
         "audio_dir": AUDIO_DIR_DENOISED,
         "audio_type": "denoised_audios",
         "vad": "vad_multilingual_marblenet",
         "embedding": "ecapa_tdnn",
+        "msdd": "diar_msdd_telephonic",
     },
 ]
     
@@ -30,6 +38,7 @@ def run_experiment(experiment):
     audio_type = experiment["audio_type"]
     vad = experiment["vad"]
     emb = experiment["embedding"]
+    msdd= experiment["msdd"] if "msdd" in experiment else None
 
     for audio_file in audio_dir.glob("*.wav"):
 
@@ -38,11 +47,7 @@ def run_experiment(experiment):
 
         
         output_dir = (
-            f"outputs/diarize_all_new/"
-            f"{audio_type}/"
-            "auto_num-speakers/"
-            f"{vad}/"
-            f"{emb}"
+            f"outputs/M94/"
         )
             
         # Create the output directory if it doesn't exist; Not necessary, but good just practice haha
@@ -53,13 +58,15 @@ def run_experiment(experiment):
 
         cmd = [
             "python",
-            "scripts/run_nemo_cascaded_diarization.py",
+            "scripts/run_nemo_msdd_diarization.py",
             "--audio",
             str(audio_file),
             "--vad-model",
             vad,
             "--embedding-model",
             emb,
+            "--msdd-model",
+            msdd,
             "--output-dir",
             output_dir,
             "--device",
