@@ -1,0 +1,5 @@
+speaker,start_time,end_time,duration
+speaker_0,0,3,1.39
+speaker_1,2,5,1.81
+speaker_0,6,10,1.41
+speaker_1,8,12,9.09
