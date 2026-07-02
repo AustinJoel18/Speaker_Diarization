@@ -3,7 +3,7 @@
 {"audio_filepath": "/home/interactionlab/Downloads/Nemo-Cascaded-Diarization/data/harvard_mono.wav", "offset": 2.01, "duration": 0.75, "label": "UNK", "uniq_id": null}
 {"audio_filepath": "/home/interactionlab/Downloads/Nemo-Cascaded-Diarization/data/harvard_mono.wav", "offset": 2.385, "duration": 0.75, "label": "UNK", "uniq_id": null}
 {"audio_filepath": "/home/interactionlab/Downloads/Nemo-Cascaded-Diarization/data/harvard_mono.wav", "offset": 2.76, "duration": 0.75, "label": "UNK", "uniq_id": null}
-{"audio_filepath": "/home/interactionlab/Downloads/Nemo-Cascaded-Diarization/data/harvard_mono.wav", "offset": 3.135, "duration": 0.5750000000000002, "label": "UNK", "uniq_id": null}
+{"audio_filepath": "/home/interactionlab/Downloads/Nemo-Cascaded-Diarization/data/harvard_mono.wav", "offset": 3.135, "duration": 0.6550000000000002, "label": "UNK", "uniq_id": null}
 {"audio_filepath": "/home/interactionlab/Downloads/Nemo-Cascaded-Diarization/data/harvard_mono.wav", "offset": 4.38, "duration": 0.75, "label": "UNK", "uniq_id": null}
 {"audio_filepath": "/home/interactionlab/Downloads/Nemo-Cascaded-Diarization/data/harvard_mono.wav", "offset": 4.755, "duration": 0.75, "label": "UNK", "uniq_id": null}
 {"audio_filepath": "/home/interactionlab/Downloads/Nemo-Cascaded-Diarization/data/harvard_mono.wav", "offset": 5.13, "duration": 0.75, "label": "UNK", "uniq_id": null}
@@ -21,12 +21,12 @@
 {"audio_filepath": "/home/interactionlab/Downloads/Nemo-Cascaded-Diarization/data/harvard_mono.wav", "offset": 10.395, "duration": 0.75, "label": "UNK", "uniq_id": null}
 {"audio_filepath": "/home/interactionlab/Downloads/Nemo-Cascaded-Diarization/data/harvard_mono.wav", "offset": 10.77, "duration": 0.75, "label": "UNK", "uniq_id": null}
 {"audio_filepath": "/home/interactionlab/Downloads/Nemo-Cascaded-Diarization/data/harvard_mono.wav", "offset": 11.145, "duration": 0.75, "label": "UNK", "uniq_id": null}
-{"audio_filepath": "/home/interactionlab/Downloads/Nemo-Cascaded-Diarization/data/harvard_mono.wav", "offset": 11.52, "duration": 0.6699999999999999, "label": "UNK", "uniq_id": null}
-{"audio_filepath": "/home/interactionlab/Downloads/Nemo-Cascaded-Diarization/data/harvard_mono.wav", "offset": 12.7, "duration": 0.75, "label": "UNK", "uniq_id": null}
-{"audio_filepath": "/home/interactionlab/Downloads/Nemo-Cascaded-Diarization/data/harvard_mono.wav", "offset": 13.075, "duration": 0.75, "label": "UNK", "uniq_id": null}
-{"audio_filepath": "/home/interactionlab/Downloads/Nemo-Cascaded-Diarization/data/harvard_mono.wav", "offset": 13.45, "duration": 0.75, "label": "UNK", "uniq_id": null}
-{"audio_filepath": "/home/interactionlab/Downloads/Nemo-Cascaded-Diarization/data/harvard_mono.wav", "offset": 13.825, "duration": 0.75, "label": "UNK", "uniq_id": null}
-{"audio_filepath": "/home/interactionlab/Downloads/Nemo-Cascaded-Diarization/data/harvard_mono.wav", "offset": 14.2, "duration": 0.39000000000000057, "label": "UNK", "uniq_id": null}
+{"audio_filepath": "/home/interactionlab/Downloads/Nemo-Cascaded-Diarization/data/harvard_mono.wav", "offset": 11.52, "duration": 0.75, "label": "UNK", "uniq_id": null}
+{"audio_filepath": "/home/interactionlab/Downloads/Nemo-Cascaded-Diarization/data/harvard_mono.wav", "offset": 12.62, "duration": 0.75, "label": "UNK", "uniq_id": null}
+{"audio_filepath": "/home/interactionlab/Downloads/Nemo-Cascaded-Diarization/data/harvard_mono.wav", "offset": 12.995, "duration": 0.75, "label": "UNK", "uniq_id": null}
+{"audio_filepath": "/home/interactionlab/Downloads/Nemo-Cascaded-Diarization/data/harvard_mono.wav", "offset": 13.37, "duration": 0.75, "label": "UNK", "uniq_id": null}
+{"audio_filepath": "/home/interactionlab/Downloads/Nemo-Cascaded-Diarization/data/harvard_mono.wav", "offset": 13.745, "duration": 0.75, "label": "UNK", "uniq_id": null}
+{"audio_filepath": "/home/interactionlab/Downloads/Nemo-Cascaded-Diarization/data/harvard_mono.wav", "offset": 14.12, "duration": 0.5499999999999989, "label": "UNK", "uniq_id": null}
 {"audio_filepath": "/home/interactionlab/Downloads/Nemo-Cascaded-Diarization/data/harvard_mono.wav", "offset": 15.1, "duration": 0.75, "label": "UNK", "uniq_id": null}
 {"audio_filepath": "/home/interactionlab/Downloads/Nemo-Cascaded-Diarization/data/harvard_mono.wav", "offset": 15.475, "duration": 0.7500000000000018, "label": "UNK", "uniq_id": null}
 {"audio_filepath": "/home/interactionlab/Downloads/Nemo-Cascaded-Diarization/data/harvard_mono.wav", "offset": 15.85, "duration": 0.7500000000000018, "label": "UNK", "uniq_id": null}
