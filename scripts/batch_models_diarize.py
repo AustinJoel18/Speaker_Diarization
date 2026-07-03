@@ -96,7 +96,7 @@ def run_clustering_batch_script(
         ):
 
             output_dir = (
-                f"Testing_folder/new_params_test/ClusteringDiarizer/"
+                f"outputs/default_params/ClusteringDiarizer/"
                 f"{audio_type}/"
                 f"{mode}/"
                 f"{vad}/"
@@ -182,7 +182,7 @@ def run_neural_batch_script(
         ):
 
             output_dir = (
-                f"Testing_folder/new_params_msdd/NeuralDiarizer_Test8/"
+                f"outputs/default_params/NeuralDiarizer/"
                 f"{audio_type}/"
                 f"{mode}/"
                 f"{vad}/"
@@ -281,42 +281,42 @@ run_clustering_batch_script(
 # 1. DENOISED_AUDIO + FIXED_NUM-SPEAKERS
 # ==========================================================
 
-# run_neural_batch_script(
-#     audio_dir=AUDIO_DIR_DENOISED,
-#     speaker_dict=AUDIO_SPEAKERS_DENOISED,
-#     audio_type="denoised_audios",
-#     use_fixed_speakers=True,
-# )
+run_neural_batch_script(
+    audio_dir=AUDIO_DIR_DENOISED,
+    speaker_dict=AUDIO_SPEAKERS_DENOISED,
+    audio_type="denoised_audios",
+    use_fixed_speakers=True,
+)
 
 # ==========================================================
 # 2. DENOISED_AUDIO + AUTO_NUM-SPEAKERS
 # ==========================================================
 
-# run_neural_batch_script(
-#     audio_dir=AUDIO_DIR_DENOISED,
-#     speaker_dict=AUDIO_SPEAKERS_DENOISED,
-#     audio_type="denoised_audios",
-#     use_fixed_speakers=False,
-# )
+run_neural_batch_script(
+    audio_dir=AUDIO_DIR_DENOISED,
+    speaker_dict=AUDIO_SPEAKERS_DENOISED,
+    audio_type="denoised_audios",
+    use_fixed_speakers=False,
+)
 
 # ==========================================================
 # 3. RAW_AUDIOS + FIXED_NUM-SPEAKERS
 # ==========================================================
 
-# run_neural_batch_script(
-#     audio_dir=AUDIO_DIR_RAW,
-#     speaker_dict=AUDIO_SPEAKERS_RAW,
-#     audio_type="raw_audios",
-#     use_fixed_speakers=True,
-# )
+run_neural_batch_script(
+    audio_dir=AUDIO_DIR_RAW,
+    speaker_dict=AUDIO_SPEAKERS_RAW,
+    audio_type="raw_audios",
+    use_fixed_speakers=True,
+)
 
 # ==========================================================
 # 4. RAW_AUDIOS + AUTO_NUM-SPEAKERS
 # ==========================================================
 
-# run_neural_batch_script(
-#     audio_dir=AUDIO_DIR_RAW,
-#     speaker_dict=AUDIO_SPEAKERS_RAW,
-#     audio_type="raw_audios",
-#     use_fixed_speakers=False,
-# )
+run_neural_batch_script(
+    audio_dir=AUDIO_DIR_RAW,
+    speaker_dict=AUDIO_SPEAKERS_RAW,
+    audio_type="raw_audios",
+    use_fixed_speakers=False,
+)
