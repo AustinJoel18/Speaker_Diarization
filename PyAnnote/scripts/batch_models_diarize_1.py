@@ -9,8 +9,8 @@ AUDIO_DIR_RAW = Path("/media/interactionlab/One Touch/ASD_Dataset/all-audios")
 
 EXPERIMENTS = [
     {
-        "audio_dir": AUDIO_DIR_RAW,
-        "audio_type": "raw_audios",
+        "audio_dir": AUDIO_DIR_DENOISED,
+        "audio_type": "denoised_audios",
     },
 ]
     
@@ -28,7 +28,7 @@ def run_pyannote_experiment(experiment):
 
         
         output_dir = (
-            f"pyannote_outputs/MP4"
+            f"pyannote_outputs/MP5"
         )
             
         # Create the output directory if it doesn't exist; Not necessary, but good just practice haha
